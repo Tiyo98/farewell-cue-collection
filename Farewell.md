@@ -2,7 +2,7 @@
 ![header](https://cdn.discordapp.com/attachments/752203178715644024/901051628013105212/20211022121702_1.jpg)
 **Important note:** This is for Farewell with the Dash Trigger Skip or short DTS which allows you to play Farewell up to Stubborness with 2 dashes. Cues for 1 dash Farewell are not planned as of yet, but some strats are similar and from [Stubbornness](#stubbornness) onwards it's the same as 1 dash.
 \
-Jelly mechanics are kinda weird at first so I recommend you give [Jelly Mechanics](https://github.com/Tiyo98/celeste-cuecollection/blob/main/jellymechanics.md) a read as I mostly assume in this that you know them.
+Jelly mechanics are kinda weird at first so I recommend you give [Jelly Mechanics](https://github.com/Tiyo98/farewell-cue-collection/blob/main/jellymechanics.md) a read as I mostly assume in this that you know them.
 - [Start](#start)
 - [Singular](#singular)
 - [Power Source](#power-source)
@@ -15,13 +15,13 @@ Jelly mechanics are kinda weird at first so I recommend you give [Jelly Mechanic
 
 ## Start
 \
- <img src="https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/farewell/intro-01-future.webp" width="384" height="216"/>
- <img src="https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/farewell/intro-03-space.webp" width="384" height="216"/>
+ <img src="https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/intro-01-future.webp" width="384" height="216"/>
+ <img src="https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/intro-03-space.webp" width="384" height="216"/>
 
   <details>
   <summary>farewell-intro-01-future</summary>
   
-  ![gif](https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/farewell/intro-01-future.webp)
+  ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/intro-01-future.webp)
   \
   ![cue](https://media.discordapp.net/attachments/752203178715644024/901072617082077224/unknown.png)
   \
@@ -31,7 +31,7 @@ Jelly mechanics are kinda weird at first so I recommend you give [Jelly Mechanic
   <details>
   <summary>farewell-intro-03-space, DTS</summary>
    
-   ![gif](https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/farewell/intro-03-space.webp)
+   ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/intro-03-space.webp)
    \
    ![cue](https://media.discordapp.net/attachments/752203178715644024/901170744929701909/unknown.png)
    ![cue](https://cdn.discordapp.com/attachments/752203178715644024/901074948133642341/unknown.png)
@@ -43,18 +43,18 @@ Jelly mechanics are kinda weird at first so I recommend you give [Jelly Mechanic
 ---- 
 ## Singular
 \
- <img src="https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/farewell/a-01.webp" width="384" height="216"/>
- <img src="https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/farewell/a-02.webp" width="384" height="216"/>
- <img src="https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/farewell/a-03.webp" width="384" height="216"/>
- <img src="https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/farewell/a-04.webp" width="384" height="216"/>
- <img src="https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/farewell/b-01.webp" width="384" height="216"/>
- <img src="https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/farewell/b-03.webp" width="384" height="216"/>
- <img src="https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/farewell/b-07.webp" width="384" height="216"/>
+ <img src="https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/a-01.webp" width="384" height="216"/>
+ <img src="https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/a-02.webp" width="384" height="216"/>
+ <img src="https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/a-03.webp" width="384" height="216"/>
+ <img src="https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/a-04.webp" width="384" height="216"/>
+ <img src="https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/b-01.webp" width="384" height="216"/>
+ <img src="https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/b-03.webp" width="384" height="216"/>
+ <img src="https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/b-07.webp" width="384" height="216"/>
 
   <details>
   <summary>farewell-a-01</summary>
   
-  ![gif](https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/farewell/a-01.webp)
+  ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/a-01.webp)
   \
   ![cue](https://media.discordapp.net/attachments/752203178715644024/901081894739922994/unknown.png)
   \
@@ -64,7 +64,7 @@ Jelly mechanics are kinda weird at first so I recommend you give [Jelly Mechanic
   <details>
   <summary>farewell-a-02</summary>
   
-  ![gif](https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/farewell/a-02.webp)
+  ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/a-02.webp)
   \
   ![cue](https://media.discordapp.net/attachments/752203178715644024/901118310664515654/unknown.png)
   \
@@ -78,7 +78,7 @@ Jelly mechanics are kinda weird at first so I recommend you give [Jelly Mechanic
   <details>
   <summary>farewell-a-03</summary>
   
-  ![gif](https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/farewell/a-03.webp)
+  ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/a-03.webp)
   \
   ![cue](https://media.discordapp.net/attachments/752203178715644024/901106275293732894/unknown.png)
   \
@@ -92,7 +92,7 @@ Jelly mechanics are kinda weird at first so I recommend you give [Jelly Mechanic
   <details>
   <summary>farewell-a-04</summary>
   
-  ![gif](https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/farewell/a-04.webp)
+  ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/a-04.webp)
   \
   ![cue](https://media.discordapp.net/attachments/752203178715644024/901131255318458399/unknown.png)
   \
@@ -111,7 +111,7 @@ Jelly mechanics are kinda weird at first so I recommend you give [Jelly Mechanic
   <details>
   <summary>farewell-b-01</summary>
   
-  ![gif](https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/farewell/b-01.webp)
+  ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/b-01.webp)
   \
   ![cue](https://media.discordapp.net/attachments/752203178715644024/909441271469330492/unknown.png)
   \
@@ -125,7 +125,7 @@ Jelly mechanics are kinda weird at first so I recommend you give [Jelly Mechanic
   <details>
   <summary>farewell-b-03</summary>
   
-  ![gif](https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/farewell/b-03.webp)
+  ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/b-03.webp)
   \
   ![cue](https://media.discordapp.net/attachments/752203178715644024/901166952007995462/unknown.png)
   \
@@ -135,7 +135,7 @@ Jelly mechanics are kinda weird at first so I recommend you give [Jelly Mechanic
   <details>
   <summary>farewell-b-07</summary>
   
-  ![gif](https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/farewell/b-07.webp)
+  ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/b-07.webp)
   \
   ![cue](https://media.discordapp.net/attachments/752203178715644024/901164505709543434/unknown.png)
   ![cue](https://media.discordapp.net/attachments/752203178715644024/903651267925147738/unknown.png)
@@ -150,16 +150,16 @@ Jelly mechanics are kinda weird at first so I recommend you give [Jelly Mechanic
 ----  
 ## Power Source
 \
- <img src="https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/farewell/c-alt-00.webp" width="384" height="216"/>
- <img src="https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/farewell/c-alt-01.webp" width="384" height="216"/>
- <img src="https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/farewell/d-00.webp" width="384" height="216"/>
- <img src="https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/farewell/d-05(slow).webp" width="384" height="216"/>
- <img src="https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/farewell/d-05(fast).webp" width="384" height="216"/>
+ <img src="https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/c-alt-00.webp" width="384" height="216"/>
+ <img src="https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/c-alt-01.webp" width="384" height="216"/>
+ <img src="https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/d-00.webp" width="384" height="216"/>
+ <img src="https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/d-05(slow).webp" width="384" height="216"/>
+ <img src="https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/d-05(fast).webp" width="384" height="216"/>
  
   <details>
   <summary>farewell-c-alt-00</summary>
   
-  ![gif](https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/farewell/c-alt-00.webp)
+  ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/c-alt-00.webp)
   \
   ![cue](https://media.discordapp.net/attachments/752203178715644024/903657651915849759/unknown.png)
   \
@@ -173,7 +173,7 @@ Jelly mechanics are kinda weird at first so I recommend you give [Jelly Mechanic
   <details>
   <summary>farewell-c-alt-01</summary>
   
-  ![gif](https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/farewell/c-alt-01.webp)
+  ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/c-alt-01.webp)
   \
   ![cue](https://media.discordapp.net/attachments/752203178715644024/903661542275436544/unknown.png)
   \
@@ -183,7 +183,7 @@ Jelly mechanics are kinda weird at first so I recommend you give [Jelly Mechanic
   <details>
   <summary>farewell-d-00</summary>
   
-  ![gif](https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/farewell/d-00.webp)
+  ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/d-00.webp)
   \
   ![cue](https://media.discordapp.net/attachments/752203178715644024/909447931034234920/unknown.png)
   \
@@ -193,7 +193,7 @@ Jelly mechanics are kinda weird at first so I recommend you give [Jelly Mechanic
   <details>
   <summary>farewell-d-05,Power Source Skip(safe)</summary>
   
-  ![gif](https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/farewell/d-05(slow).webp)
+  ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/d-05(slow).webp)
   \
   ![cue](https://media.discordapp.net/attachments/752203178715644024/903663077411684352/unknown.png)
   ![cue](https://media.discordapp.net/attachments/752203178715644024/903656309143011388/unknown.png)
@@ -206,7 +206,7 @@ Jelly mechanics are kinda weird at first so I recommend you give [Jelly Mechanic
   <details>
   <summary>farewell-d-05,Power Source Skip(fast)</summary>
   
-  ![gif](https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/farewell/d-05(fast).webp)
+  ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/d-05(fast).webp)
   \
   ![cue](https://media.discordapp.net/attachments/752203178715644024/903654973970186240/unknown.png)
   \
@@ -216,15 +216,15 @@ Jelly mechanics are kinda weird at first so I recommend you give [Jelly Mechanic
 ----
 ## Remembered
 \
- <img src="https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/farewell/e-03.webp" width="384" height="216"/>
- <img src="https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/farewell/e-04.webp" width="384" height="216"/>
- <img src="https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/farewell/e-07.webp" width="384" height="216"/>
- <img src="https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/farewell/e-08.webp" width="384" height="216"/>
+ <img src="https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/e-03.webp" width="384" height="216"/>
+ <img src="https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/e-04.webp" width="384" height="216"/>
+ <img src="https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/e-07.webp" width="384" height="216"/>
+ <img src="https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/e-08.webp" width="384" height="216"/>
   
   <details>
   <summary>farewell-e-03</summary>
   
-  ![gif](https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/farewell/e-03.webp)
+  ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/e-03.webp)
   \
   ![cue](https://media.discordapp.net/attachments/752203178715644024/909452343278465115/unknown.png)
   \
@@ -237,7 +237,7 @@ Jelly mechanics are kinda weird at first so I recommend you give [Jelly Mechanic
   <details>
   <summary>farewell-e-04</summary>
   
-  ![gif](https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/farewell/e-04.webp)
+  ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/e-04.webp)
   \
   ![cue](https://media.discordapp.net/attachments/752203178715644024/909458151785517127/unknown.png)
   \
@@ -249,17 +249,17 @@ Jelly mechanics are kinda weird at first so I recommend you give [Jelly Mechanic
   <details>
   <summary>farewell-e-07</summary>
   
-  ![gif](https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/farewell/e-07.webp)
+  ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/e-07.webp)
   \
   ![cue](https://media.discordapp.net/attachments/752203178715644024/909462817088880720/unknown.png)
   \
-  Updash when you reach the piece of floaty rubble. Delay the upright dashes and the last upright has to be a demo.
+  Updash when you reach the piece of floaty rubble. Buffer the first upright and delay the next 2 upright dashes. The last upright has to be a demo. It can help to updemo the updash
  </details>
   
   <details>
   <summary>farewell-e-08</summary>
   
-  ![gif](https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/farewell/e-08.webp)
+  ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/e-08.webp)
   \
   ![cue](https://media.discordapp.net/attachments/752203178715644024/909464588385402890/unknown.png)
   ![cue](https://media.discordapp.net/attachments/752203178715644024/920794354761748560/unknown.png)
@@ -268,7 +268,7 @@ Jelly mechanics are kinda weird at first so I recommend you give [Jelly Mechanic
   \
   ![cue](https://media.discordapp.net/attachments/752203178715644024/909465099419418664/unknown.png)
   \
-  Hit the spring on its top. Remember that you can hold up+jump to fall less when holding a jelly. Upright when you're past or in line with the right side of the bg tile and release directions when you reach the crystal.
+  Hit the spring on its top. Hold up to slow fall with the jelly. Upright when you're past or in line with the right side of the bg tile and release directions when you reach the crystal.
  </details>  
 
 ----
@@ -277,4 +277,4 @@ Jelly mechanics are kinda weird at first so I recommend you give [Jelly Mechanic
 ## Stubbornness
 ## Reconcilation
 ## Farewell
-[⇦ Back to Main Page](https://github.com/Tiyo98/celeste-cuecollection)
+[⇦ Back to Main Page](https://github.com/Tiyo98/farewell-cue-collection)
