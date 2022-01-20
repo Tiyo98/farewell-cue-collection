@@ -305,6 +305,8 @@ Jelly mechanics are kinda weird at first so I recommend you give [Jelly Mechanic
   \
   Exit the bino and the moment the white arrows on the side of the screen that indicate you can move the camera start disappearing you want to do an extended neutral super. So dash without holding a direction and jump a bit later. Getting the extention has no clear feedback so you just have to pray and rely on muscle memory.
  </details>
+ 
+----
 ## Determination
 ## Stubbornness
 ## Reconcilation
