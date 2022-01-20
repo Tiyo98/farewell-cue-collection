@@ -297,9 +297,9 @@ Jelly mechanics are kinda weird at first so I recommend you give [Jelly Mechanic
   
   ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/f-06-1.webp)
   \
-  ![cue]
+  ![cue](https://media.discordapp.net/attachments/752203178715644024/933545737550176298/Celeste_DuDC2vwxoV.png)
   \
-  Binoclip is a funny strat that is not too difficult after practicing it a bit but definitely weird at first. First you want to make sure to interact with the bino from the left so you face right. To do that consistently, downright dash when you're in the middle of the green background tile and buffer a downdash.
+  Binoclip is a funny strat that is not too difficult after practicing it a bit but definitely weird at first. First you want to make sure to interact with the bino from the left so you face right. To do that consistently, hold jump on the demohyper and downright dash when you're in the middle of the first part of that green background tile and buffer a downdash.
   \
   You then want to move the bino until the double spinners on the bottom disappear.
   \
