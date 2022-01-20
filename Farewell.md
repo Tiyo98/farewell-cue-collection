@@ -273,6 +273,18 @@ Jelly mechanics are kinda weird at first so I recommend you give [Jelly Mechanic
 
 ----
 ## Event Horizon
+\
+ <img src="https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/e-03.webp" width="384" height="216"/>
+ 
+  <details>
+  <summary>farewell-f-05</summary>
+  
+  ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/f-05.webp)
+  \
+  ![cue](https://media.discordapp.net/attachments/752203178715644024/933534009336664106/Celeste_KSvtIctHxA.png)
+  Let the conveyer just fly you over DON'T climbjump, right dash when Madeline's head is in line with the hole in the background and buffer a fullheight climbjump and hold right to go over the spikes.
+  
+
 ## Determination
 ## Stubbornness
 ## Reconcilation
