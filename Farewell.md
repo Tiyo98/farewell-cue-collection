@@ -288,8 +288,23 @@ Jelly mechanics are kinda weird at first so I recommend you give [Jelly Mechanic
   ![cue](https://media.discordapp.net/attachments/752203178715644024/933538323379667014/Celeste_568gARyUky.png)
   \
   Full height climbjump when you reach the hole in the background tile to save a few frames.
+  \
+  Also at the very end of the room, the moment the conveyer starts to move you upwards, input a climbjump to get a clean landing.
  </details>
-
+ 
+  <details>
+  <summary>farewell-f-06(bino-clip)</summary>
+  
+  ![gif]
+  \
+  ![cue]
+  \
+  Binoclip is a funny strat that is not too difficult after practicing it a bit but definitely weird at first. First you want to make sure to interact with the bino from the left. To do that consistently, downright dash when you're in the middle of the green background tile and buffer a downdash.
+  \
+  You then want to move the bino until the double spinners on the bottom disappear.
+  \
+  Exit the bino and the moment the white arrows on the side of the screen that indicate you can move the camera disappear you want to do an extended neutral super. So dash without holding a direction and jump a bit later. Getting the extention has no clear feedback so you just have to pray and rely on muscle memory.
+ </details>
 ## Determination
 ## Stubbornness
 ## Reconcilation
