@@ -295,15 +295,15 @@ Jelly mechanics are kinda weird at first so I recommend you give [Jelly Mechanic
   <details>
   <summary>farewell-f-06(bino-clip)</summary>
   
-  ![gif]
+  ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/f-06-1.webp)
   \
   ![cue]
   \
-  Binoclip is a funny strat that is not too difficult after practicing it a bit but definitely weird at first. First you want to make sure to interact with the bino from the left. To do that consistently, downright dash when you're in the middle of the green background tile and buffer a downdash.
+  Binoclip is a funny strat that is not too difficult after practicing it a bit but definitely weird at first. First you want to make sure to interact with the bino from the left so you face right. To do that consistently, downright dash when you're in the middle of the green background tile and buffer a downdash.
   \
   You then want to move the bino until the double spinners on the bottom disappear.
   \
-  Exit the bino and the moment the white arrows on the side of the screen that indicate you can move the camera disappear you want to do an extended neutral super. So dash without holding a direction and jump a bit later. Getting the extention has no clear feedback so you just have to pray and rely on muscle memory.
+  Exit the bino and the moment the white arrows on the side of the screen that indicate you can move the camera start disappearing you want to do an extended neutral super. So dash without holding a direction and jump a bit later. Getting the extention has no clear feedback so you just have to pray and rely on muscle memory.
  </details>
 ## Determination
 ## Stubbornness
