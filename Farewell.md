@@ -321,6 +321,20 @@ Jelly mechanics are kinda weird at first so I recommend you give [Jelly Mechanic
   For the end part, you want to upleft demo when you're under the last spinner
  </details>
  
+  <details>
+  <summary>farewell-g-04</summary>
+  
+  ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/g-04.webp)
+  \
+  ![cue](https://media.discordapp.net/attachments/752203178715644024/933907602969092146/unknown.png)
+  \
+  Long room that can be made decently consistent. Start an extended super or hyper when the moving block reaches the third spinner pillar. Super is easier than hyper but it doesn't matter.
+  \
+  ![cue](https://media.discordapp.net/attachments/752203178715644024/933909670446387260/unknown.png)
+  ![cue](https://media.discordapp.net/attachments/752203178715644024/933910227252838440/unknown.png)
+  \
+  Do a tiny jump when you're between the two spinners and upright when you're in line with the background pillar.
+ </details>
 ----
 ## Determination
 ## Stubbornness
