@@ -275,6 +275,8 @@ Jelly mechanics are kinda weird at first so I recommend you give [Jelly Mechanic
 ## Event Horizon
 \
  <img src="https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/f-05.webp" width="384" height="216"/>
+ <img src="https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/f-06-1.webp" width="384" height="216"/>
+ <img src="https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/g-03.webp" width="384" height="216"/>
  
   <details>
   <summary>farewell-f-05</summary>
@@ -304,6 +306,19 @@ Jelly mechanics are kinda weird at first so I recommend you give [Jelly Mechanic
   You then want to move the bino until the double spinners on the bottom disappear.
   \
   Exit the bino and the moment the white arrows on the side of the screen that indicate you can move the camera start disappearing you want to do an extended neutral super. So dash without holding a direction and jump a bit later. Getting the extention has no clear feedback so you just have to pray and rely on muscle memory.
+ </details>
+ 
+  <details>
+  <summary>farewell-g-03</summary>
+  
+  ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/g-03.webp)
+  \
+  ![cue](https://media.discordapp.net/attachments/752203178715644024/933881863234256896/unknown.png)
+  \
+  You can buffer the updash right dash for the super at the beginning of the room.</b>
+  After hitting the coin, if you dash high into the dreamblock you can dreamhyper out of that specific dreamblock. If you're low just jump out how you normally would.
+  \
+  For the end part, you want to upleft demo when you're under the last spinner
  </details>
  
 ----
