@@ -334,7 +334,12 @@ Jelly mechanics are kinda weird at first so I recommend you give [Jelly Mechanic
   ![cue](https://media.discordapp.net/attachments/752203178715644024/933910227252838440/unknown.png)
   \
   Do a tiny jump when you're between the two spinners and upright when you're in line with the background pillar.
+  \
+  ![cue](https://media.discordapp.net/attachments/752203178715644024/933912477618561054/unknown.png)
+  \
+  Hit the spring low and fast fall and buffer a climbjump. Upright dash when you're past the bottom spinner and uprgiht demo when you're close to the right wall with spinners. The jump timing for the cornerkick will feel weird as you slide under the wall but just make sure to input the jump slightly later than you think.
  </details>
+ 
 ----
 ## Determination
 ## Stubbornness
