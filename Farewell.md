@@ -29,7 +29,7 @@ Jelly mechanics are kinda weird at first so I recommend you give [Jelly Mechanic
  </details>
  
   <details>
-  <summary>farewell-intro-03-space, DTS</summary>
+  <summary>farewell-intro-03-space, Dash Trigger Skip (DTS)</summary>
    
    ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/intro-03-space.webp)
    \
@@ -190,7 +190,7 @@ Jelly mechanics are kinda weird at first so I recommend you give [Jelly Mechanic
  </details>
  
   <details>
-  <summary>farewell-d-05,Power Source Skip(safe)</summary>
+  <summary>farewell-d-05, Power Source Skip(safe)</summary>
   
   ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/d-05(slow).webp)
   \
@@ -203,7 +203,7 @@ Jelly mechanics are kinda weird at first so I recommend you give [Jelly Mechanic
  </details>
  
   <details>
-  <summary>farewell-d-05,Power Source Skip(fast)</summary>
+  <summary>farewell-d-05, Power Source Skip(fast)</summary>
   
   ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/d-05(fast).webp)
   \
@@ -298,7 +298,7 @@ Jelly mechanics are kinda weird at first so I recommend you give [Jelly Mechanic
  </details>
  
   <details>
-  <summary>farewell-f-06,bino clip</summary>
+  <summary>farewell-f-06, bino clip</summary>
   
   ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/f-06-1.webp)
   \
@@ -462,7 +462,7 @@ Jelly mechanics are kinda weird at first so I recommend you give [Jelly Mechanic
  </details>
  
   <details>
-  <summary>farewell-h-10,tiyoboost</summary>
+  <summary>farewell-h-10, tiyoboost</summary>
   
   ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/h-10-2.webp)
   \
@@ -475,7 +475,7 @@ Jelly mechanics are kinda weird at first so I recommend you give [Jelly Mechanic
   \
   ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/h-10-1.webp)
   \
-  [cue](https://cdn.discordapp.com/attachments/752203178715644024/966111443302907944/unknown.png)
+  ![cue](https://cdn.discordapp.com/attachments/752203178715644024/966111443302907944/unknown.png)
   \
   Yes I put the beginning afterwards because it's less important. Downright in the small dent of the bg tiles and jump and cornerboost after transition was the most consistent for me.
  </details>
