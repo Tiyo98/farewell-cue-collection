@@ -303,9 +303,15 @@ Jelly mechanics are kinda weird at first so I recommend you give [Jelly Mechanic
   \
   Binoclip is a funny strat that is not too difficult after practicing it a bit but definitely weird at first. First you want to make sure to interact with the bino from the left so you face right. To do that consistently, hold jump on the demohyper and downright dash when you're in the middle of the first part of that green background tile and buffer a downdash.
   \
+  ![cue](https://cdn.discordapp.com/attachments/752203178715644024/965989776274649129/unknown.png)
   You then want to move the bino until the double spinners on the bottom disappear.
   \
   Exit the bino and the moment the white arrows on the side of the screen that indicate you can move the camera start disappearing you want to do an extended neutral super. So dash without holding a direction and jump a bit later. Getting the extention has no clear feedback so you just have to pray and rely on muscle memory.
+  \
+  \
+  ![cue](https://cdn.discordapp.com/attachments/752203178715644024/965992701755539486/unknown.png)
+  \
+  For the ending of this room, go the bottom off the block and hold right, release grab when madeline reaches the cue.
  </details>
  
   <details>
@@ -315,7 +321,7 @@ Jelly mechanics are kinda weird at first so I recommend you give [Jelly Mechanic
   \
   ![cue](https://media.discordapp.net/attachments/752203178715644024/933881863234256896/unknown.png)
   \
-  You can buffer the updash right dash for the super at the beginning of the room.</b>
+  You can buffer the updash into right dash for the super at the beginning of the room.</b>
   After hitting the coin, if you dash high into the dreamblock you can dreamhyper out of that specific dreamblock. If you're low just jump out how you normally would.
   \
   For the end part, you want to upleft demo when you're under the last spinner
