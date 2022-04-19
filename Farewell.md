@@ -138,13 +138,12 @@ Jelly mechanics are kinda weird at first so I recommend you give [Jelly Mechanic
   ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/b-07.webp)
   \
   ![cue](https://media.discordapp.net/attachments/752203178715644024/901164505709543434/unknown.png)
-  ![cue](https://media.discordapp.net/attachments/752203178715644024/903651267925147738/unknown.png)
   \
-  Start the jump for the wallbounce here and release jump roughly when you're over the dash crystal.
+  Start the jump for the wallbounce here and dash early and buffer the dashes
   \
   ![cue](https://cdn.discordapp.com/attachments/752203178715644024/901168976497901589/unknown.png)
   \
-  This should work if you buffer the dashes when you fastfall but if you slowfall at some point you die. Can also try to react instead of buffer and do it in the middle of the crystal.
+  This should work if you buffer the dashes when you fastfall but if you slowfall at some point you can die. Can also try to react instead of buffer and do it in the middle of the crystal.
  </details>
  
 ----  
@@ -252,8 +251,9 @@ Jelly mechanics are kinda weird at first so I recommend you give [Jelly Mechanic
   ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/e-07.webp)
   \
   ![cue](https://media.discordapp.net/attachments/752203178715644024/909462817088880720/unknown.png)
+  ![cue](https://cdn.discordapp.com/attachments/752203178715644024/966096795279183972/unknown.png)
   \
-  Updash when you reach the piece of floaty rubble. Buffer the first upright and delay the next 2 upright dashes. The last upright has to be a demo. It can help to updemo the updash
+  Updash when you reach the piece of floaty rubble. It can help to updemo the updash. Buffer the first upright and delay the next 2 upright dashes. The last upright has to be a demo. Try doing that last one inbetween the bg tile and the spinners. 
  </details>
   
   <details>
@@ -276,7 +276,10 @@ Jelly mechanics are kinda weird at first so I recommend you give [Jelly Mechanic
 \
  <img src="https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/f-05.webp" width="384" height="216"/>
  <img src="https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/f-06-1.webp" width="384" height="216"/>
+ <img src="https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/f-07.webp" width="384" height="216"/>
+ <img src="https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/f-08.webp" width="384" height="216"/>
  <img src="https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/g-03.webp" width="384" height="216"/>
+ <img src="https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/g-05.webp" width="384" height="216"/>
  
   <details>
   <summary>farewell-f-05</summary>
@@ -295,7 +298,7 @@ Jelly mechanics are kinda weird at first so I recommend you give [Jelly Mechanic
  </details>
  
   <details>
-  <summary>farewell-f-06(bino-clip)</summary>
+  <summary>farewell-f-06,bino clip</summary>
   
   ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/f-06-1.webp)
   \
@@ -308,10 +311,36 @@ Jelly mechanics are kinda weird at first so I recommend you give [Jelly Mechanic
   \
   Exit the bino and the moment the white arrows on the side of the screen that indicate you can move the camera start disappearing you want to do an extended neutral super. So dash without holding a direction and jump a bit later. Getting the extention has no clear feedback so you just have to pray and rely on muscle memory.
   \
+  ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/f-06-2.webp)
   \
   ![cue](https://cdn.discordapp.com/attachments/752203178715644024/965992701755539486/unknown.png)
   \
-  For the ending of this room, go the bottom off the block and hold right, release grab when madeline reaches the cue.
+  For the ending of this room, go the bottom off the block and hold right, release grab when the kevin block reaches the cue.
+ </details>
+ 
+  <details>
+  <summary>farewell-f-07</summary>
+  
+  ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/f-07.webp)
+  \
+  ![cue](https://cdn.discordapp.com/attachments/752203178715644024/966055468390809640/unknown.png)
+  \
+  Can be an annoying room because of the downright and feel impossible but if you wait until the block has reached the very end of the track and you are up roughly 2/3 or 3/4 of the block it works. Semit decent cue for that is if Madeline's hand is horizontally alligned with the green part of the block
+ </details>
+  
+  <details>
+  <summary>farewell-f-07</summary>
+  
+  ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/f-08.webp)
+  \
+  ![cue](https://cdn.discordapp.com/attachments/752203178715644024/966057441592766494/unknown.png)
+  \
+  Important for the entry is that you hyper from not too far left, as long as you're past the first weird koral bg tile you can full height hyper into the transition and release jump when you're inside it.
+  \
+  ![cue](https://cdn.discordapp.com/attachments/752203178715644024/966059169042022521/unknown.png)
+  ![cue](https://cdn.discordapp.com/attachments/752203178715644024/966059335614619738/unknown.png)
+  \
+  Getting under is quite lenient but still look for these 2 visually different hand animations for the grab to be safe and you should be fine
  </details>
  
   <details>
@@ -345,9 +374,113 @@ Jelly mechanics are kinda weird at first so I recommend you give [Jelly Mechanic
   \
   Hit the spring low and fast fall and buffer a climbjump. Upright dash when you're past the bottom spinner and uprgiht demo when you're close to the right wall with spinners. The jump timing for the cornerkick will feel weird as you slide under the wall but just make sure to input the jump slightly later than you think.
  </details>
+  
+  <details>
+  <summary>farewell-g-05</summary>
+  
+  ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/g-05.webp)
+  \
+  ![cue](https://cdn.discordapp.com/attachments/752203178715644024/966066567471312896/unknown.png)
+  \
+  Hold jump from the hyper into the room and buffer the dashes when you reach the stalactite in the background.
+ </details>
  
 ----
 ## Determination
+\
+ <img src="https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/h-02.webp" width="384" height="216"/>
+ <img src="https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/h-03b.webp" width="384" height="216"/>
+ <img src="https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/h-06.webp" width="384" height="216"/>
+ <img src="https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/h-06b.webp" width="384" height="216"/>
+ <img src="https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/h-09.webp" width="384" height="216"/>
+ <img src="https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/h-10-2.webp" width="384" height="216"/>
+  
+  <details>
+  <summary>farewell-h-02</summary>
+  
+  ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/h-02.webp)
+  \
+  ![cue](https://cdn.discordapp.com/attachments/752203178715644024/966079580005875712/unknown.png)
+  \
+  Dash upright when in line with the first spinner on the right and buffer right dash.
+  \
+  ![cue](https://cdn.discordapp.com/attachments/752203178715644024/966078461057851432/20220419224052_1.jpg)
+  ![cue](https://cdn.discordapp.com/attachments/752203178715644024/966078478510354432/20220419224143_1.jpg) 
+  \
+  Not really a cue but just showing the earliest and latest frame for the downright. Really weird but can be consistent with practice as it's a 3f window(4f technically but you don't land on the ground on the first frame). I personally try to be just above the first of the bottom spinners on the right but as it's really rough I put the whole frame window here.
+ </details>
+  
+  <details>
+  <summary>farewell-h-03b</summary>
+  
+  ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/h-03b.webp)
+  \
+  ![cue](https://cdn.discordapp.com/attachments/752203178715644024/966083076159590470/unknown.png)
+  \
+  Upright when you're inside the bubbles and delay the 2nd upright.
+  \
+  ![cue](https://cdn.discordapp.com/attachments/752203178715644024/966083242174320721/unknown.png)
+  \
+  Upright demo when under the spikes on the left side of the core block and demo at full height.
+ </details>
+ 
+  <details>
+  <summary>farewell-h-06</summary>
+  
+  ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/h-06.webp)
+  \
+  ![cue](https://cdn.discordapp.com/attachments/752203178715644024/966084918130114600/unknown.png)
+  \
+  Full height hyper when you reach the last small rubble and release jump in the transition.
+ </details>
+ 
+  <details>
+  <summary>farewell-h-06b</summary>
+  
+  ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/h-06b.webp)
+  \
+  ![cue](https://media.discordapp.net/attachments/735318537047900291/917102849987596298/unknown.png)
+  \
+  Really hard room, I recommend practicing this room a lot and having a good death cycle for this ([example death strat](https://clips.twitch.tv/ArtsySpikyEmuPastaThat-1ti1YP0oBIVWiw-E)).
+  \
+  Full height transition wallbounce and buffer 2 updashes when you're in line with the sticking out bg tile above you. Don't move until you hit the ice ball.
+  \
+  ![cue](https://cdn.discordapp.com/attachments/735318537047900291/917102850184716348/unknown.png)
+  \
+  Upright dash when under the sticking out part off the bg tile and delay the right dash until max height. Hold neutral for the iceball super and hold jump. Then you can do a left dash to get another ice ball super. Hold jump on that one as well and dash up into the left coin. Wait until max height off the updash and then do a right dash and release directions and also hold jump for a neutral ice ball super. Downright when inside the coin within the fireballs and the rest should line up.
+ </details>
+ 
+  <details>
+  <summary>farewell-h-09</summary>
+  
+  ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/h-09.webp)
+  \
+  ![cue](https://cdn.discordapp.com/attachments/752203178715644024/966094435098193970/unknown.png)
+  ![cue](https://cdn.discordapp.com/attachments/752203178715644024/966094174719967242/unknown.png)
+  \
+  Line up Madeline with the right eye of kevin and dash down when the kevin reaches the 2nd hole of that pair of background holes. Buffer 3 downdashes, a downright and a left dash to get the right timing for the kevin to fit through the breakable blocks.
+ </details>
+ 
+  <details>
+  <summary>farewell-h-10,tiyoboost</summary>
+  
+  ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/h-10-2.webp)
+  \
+  ![cue](https://cdn.discordapp.com/attachments/407934733595705344/912510548661387294/unknown.png)
+  ![cue](https://cdn.discordapp.com/attachments/407934733595705344/912510601077612605/unknown.png)
+  \
+  First you have to know you can be too fast with your feather movement so slow down a bit. I like to just not optimize the turns at the beginning.
+  \
+  As long as you're at the bottom of the screen and in between the position that shows on the picture you can buffer everything. It's an updemo into a downleft, jump off the block and upright and then cornerboost.
+  \
+  ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/h-10-1.webp)
+  \
+  [cue](https://cdn.discordapp.com/attachments/752203178715644024/966111443302907944/unknown.png)
+  \
+  Yes I put the beginning afterwards because it's less important. Downright in the small dent of the bg tiles and jump and cornerboost after transition was the most consistent for me.
+ </details>
+ 
+----
 ## Stubbornness
 ## Reconcilation
 ## Farewell
