@@ -329,7 +329,7 @@ Jelly mechanics are kinda weird at first so I recommend you give [Jelly Mechanic
  </details>
   
   <details>
-  <summary>farewell-f-07</summary>
+  <summary>farewell-f-08</summary>
   
   ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/f-08.webp)
   \
@@ -368,7 +368,7 @@ Jelly mechanics are kinda weird at first so I recommend you give [Jelly Mechanic
   ![cue](https://media.discordapp.net/attachments/752203178715644024/933909670446387260/unknown.png)
   ![cue](https://media.discordapp.net/attachments/752203178715644024/933910227252838440/unknown.png)
   \
-  Do a tiny jump when you're between the two spinners and upright when you're in line with the background pillar.
+  Do a tiny jump when you're between the two spinners and upright when you're in line with the background pillar. Also have to be pretty low before the upright, roughly when the feet touches the spinners.
   \
   ![cue](https://media.discordapp.net/attachments/752203178715644024/933912477618561054/unknown.png)
   \
