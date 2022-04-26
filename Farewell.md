@@ -540,7 +540,7 @@ Also moonblocks move on a cycle so be aware of that if you set save states or us
  </details>
  
   <details>
-  <summary>farewell-i-04<summary>
+  <summary>farewell-i-04</summary>
   
   ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/i-04.webp)
   \
