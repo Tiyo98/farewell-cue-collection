@@ -3,6 +3,7 @@
 **Important note:** This is for Farewell with the Dash Trigger Skip or short DTS which allows you to play Farewell up to Stubborness with 2 dashes. Cues for 1 dash Farewell are not planned as of yet, but some strats are similar and from [Stubbornness](#stubbornness) onwards it's the same as 1 dash.
 \
 Jelly mechanics are kinda weird at first so I recommend you give [Jelly Mechanics](https://github.com/Tiyo98/farewell-cue-collection/blob/main/jellymechanics.md) a read as I mostly assume in this that you know them.
+Also moonblocks move on a cycle so be aware of that if you set save states or use the debug map when practicing.
 - [Start](#start)
 - [Singular](#singular)
 - [Power Source](#power-source)
@@ -482,6 +483,83 @@ Jelly mechanics are kinda weird at first so I recommend you give [Jelly Mechanic
  
 ----
 ## Stubbornness
+\
+ <img src="https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/i-00.webp" width="384" height="216"/>
+ <img src="https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/i-00b-demo.webp" width="384" height="216"/>
+ <img src="https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/i-01.webp" width="384" height="216"/>
+ <img src="https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/i-02.webp" width="384" height="216"/>
+ \
+ First for Stubbornness you have to know that the cycles are global instead of only covering a single room like in the rest of the game. As the cycles are different speed you may wonder how they work which is actually pretty simple. Think of a full cycle as a loading progress bar and that progress gets carried over into the next room. This also means that practicing and learning rooms is a pain here so when practicing try to pausebuffer save states and play through the rooms normally to not mess with the cycles.
+ 
+  <details>
+  <summary>farewell-i-00</summary>
+  
+  ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/i-00.webp)
+  \
+  ![cue](https://cdn.discordapp.com/attachments/752203178715644024/966306194354487336/unknown.png)
+  \
+  Upwards transition add a dash cooldown to Madeline so I skip the cutscene a bit later so I can buffer an input afterwards without getting owned. I do that when Madeline's feet reach the platform on the left.
+  \
+  ![cue](https://cdn.discordapp.com/attachments/752203178715644024/966309555799736320/unknown.png)
+  \
+  I do 2 downrights into the corner to setup the cycle, then you can either wait a bit and jump to not get a wavedash or just climbjump immediately after to be safe. Wavedash and try to jump late so you have more speed on the ultra. Downright over the blue block and make sure to not buffer the jump. Upright close to the pink block and either wait a bit and then start a hyper with a slight extension or you can squeeze out another downdash. The important part here is that you enter the next room when the green block in this room appears.
+ </details>
+ 
+  <details>
+  <summary>farewell-i-00b</summary>
+  
+  ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/i-00b-demo.webp)
+  \
+  ![cue](https://cdn.discordapp.com/attachments/752203178715644024/966313512311873596/unknown.png)
+  \
+  If you did the entry correctly into this room you should be able to do a downright here at the beginning and then climbjump up to be able to wavedash and ultra off the blue block. Don't buffer the jump but don't get huge coyote as you can make it impossible to get a demo window as you need to be falling for that. Lining up Madeline's bottom hair pixel with the outsticking top part off the spinner is the cue I use for the demo. Fast fall immediately after the demo as the cycle is tight. If you entered the room too late the blue block disappeared. Very sad day but it's a hard cycle. 
+  \  
+  ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/i-00b-safe.webp)
+  \
+  If you don't wanna do the demo I recommend this strat. Also good when you die so learn it either way. You have to hold jump off the wallbounce while still grabbing the green block as you need the half gravity. You climb up to the top and hold right+jump. Because of the half gravity at the beginning you barely make it to the pink block and can then climb up the block and buffer a downright into the spring. Otherwise you can be too fast.
+ </details>
+ 
+  <details>
+  <summary>farewell-i-01</summary>
+  
+  ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/i-01.webp)
+  \
+  ![cue](https://cdn.discordapp.com/attachments/752203178715644024/966317271276466176/unknown.png)
+  \
+  Doing 8 downdashes lines up the dash to the spring and then going through the pink dash block. If you don't wanna count or miss the buffer the beat in between the cycle is a good cue. [Here the room video with sound]() to easier notice it. Exiting the room when the blue blocks appear and/or 3 downdashes line it up decently well to hyper out.
+ </details>
+ 
+  <details>
+  <summary>farewell-i-02</summary>
+  
+  ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/i-02.webp)
+  \
+  ![cue](https://cdn.discordapp.com/attachments/752203178715644024/966331420282855454/unknown.png)
+  \
+  Like previously mentioned, hyper into the room and wavedash off the lower ground. Upright when inside the edge of the blue block left of the gap and buffer jump. You can do the upright later but I personally was too fast at the very end if I did that. Also I personally try to not do a fullheight jump. Upright through the block and buffer another jump. Depending on when you upright through the crystal you can hold right. If you upright too late you have to release right for a bit and adjust. Not much else to say about this room except that you wanna hold grab at the end in case you have to climbjump.
+ </details>
+ 
+  <details>
+  <summary>farewell-i-04<summary>
+  
+  ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/i-04.webp)
+  \
+  ![cue]()
+  \
+  Have to get a clean room before and see how if it works but updash into the pink block and fast fall into the bubble. Then fast bubble everything and downright at the edge of the blue block.
+ </details>
+ 
+  <details>
+  <summary>farewell-i-05</summary>
+  
+  ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/i-05.webp)
+  \
+  ![cue]()
+  \
+  Normal!!! upright dash when between the blue and yellow block. A demo will send you too high after hitting the spring because you reach the spring later. See if skipping the pink block or not is easier for you. Should barely make a time difference.
+ </details>
+ 
+----
 ## Reconcilation
 ## Farewell
 [⇦ Back to Main Page](https://github.com/Tiyo98/farewell-cue-collection)
