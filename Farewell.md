@@ -87,7 +87,7 @@ Also moonblocks move on a cycle so be aware of that if you set save states or us
   \
   ![cue](https://media.discordapp.net/attachments/752203178715644024/901106095496527932/unknown.png)
   \
-  Try to neutral climbjump up and hold right for the last climbjump. That last climbjump should be on the top part of the dash block. After the neutral jump of the retreating dash block you want to diag demo so you reach the ceiling later and have more height. 
+  Try to neutral climbjump up and hold right for the last climbjump. That last climbjump should be on the top part of the dash block. After the neutral jump of the retreating dash block you want to diag demo so you reach the ceiling later and have more height. You can do a second upright demo for safety if you can't get over with a right dash consistently..,..
  </details>
  
   <details>
@@ -526,7 +526,7 @@ Also moonblocks move on a cycle so be aware of that if you set save states or us
   \
   ![cue](https://cdn.discordapp.com/attachments/752203178715644024/966317271276466176/unknown.png)
   \
-  Doing 8 downdashes lines up the dash to the spring and then going through the pink dash block. If you don't wanna count or miss the buffer the beat in between the cycle is a good cue. [Here the room video with sound]() to easier notice it. Exiting the room when the blue blocks appear and/or 3 downdashes line it up decently well to hyper out.
+  Doing 8 downdashes lines up the dash to the spring and then going through the pink dash block. If you don't wanna count or miss the buffer the beat in between the cycle is a good cue. [Here the room video with sound](https://youtu.be/qLc4kBs0lek) to easier notice it. Exiting the room when the blue blocks appear and/or 3 downdashes line it up decently well to hyper out.
  </details>
  
   <details>
