@@ -321,7 +321,7 @@ Also moonblocks move on a cycle so be aware of that if you set save states or us
   \
   ![cue](https://cdn.discordapp.com/attachments/752203178715644024/965992701755539486/unknown.png)
   \
-  For the ending of this room, go the bottom off the block and hold right, release grab when the kevin block reaches the cue.
+  For the ending of this room, go the bottom off the block and hold right, jump when the kevin block reaches the cue.
  </details>
  
   <details>
