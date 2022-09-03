@@ -331,7 +331,7 @@ Also moonblocks move on a cycle so be aware of that if you set save states or us
   \
   ![cue](https://cdn.discordapp.com/attachments/752203178715644024/966055468390809640/unknown.png)
   \
-  Can be an annoying room because of the downright and feel impossible but if you wait until the block has reached the very end of the track and you are up roughly 2/3 or 3/4 of the block it works. Semit decent cue for that is if Madeline's hand is horizontally alligned with the green part of the block
+  Can be an annoying room because of the downright and feel impossible but if you wait until the block has reached the very end of the track and you are up roughly 2/3 or 3/4 of the block it works. Semi decent cue for that is if Madeline's hand is horizontally alligned with the green part of the block
  </details>
   
   <details>
@@ -341,7 +341,7 @@ Also moonblocks move on a cycle so be aware of that if you set save states or us
   \
   ![cue](https://cdn.discordapp.com/attachments/752203178715644024/966057441592766494/unknown.png)
   \
-  Important for the entry is that you hyper from not too far left, as long as you're past the first weird koral bg tile you can full height hyper into the transition and release jump when you're inside it.
+  Important for the entry is that you hyper from not too far left, as long as you're past the first weird coral bg tile you can full height hyper into the transition and release jump when you're inside it.
   \
   ![cue](https://cdn.discordapp.com/attachments/752203178715644024/966059169042022521/unknown.png)
   ![cue](https://cdn.discordapp.com/attachments/752203178715644024/966059335614619738/unknown.png)
