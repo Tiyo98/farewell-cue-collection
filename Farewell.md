@@ -39,7 +39,7 @@ Also moonblocks move on a cycle so be aware of that if you set save states or us
    ![cue](https://media.discordapp.net/attachments/752203178715644024/901170744929701909/unknown.png)
    ![cue](https://cdn.discordapp.com/attachments/752203178715644024/901074948133642341/unknown.png)
    \
-   Do an updash and an upright to get to the moonblock. Land and buffer an updash and delay another updash. Buffer a left jump when you land again. Wallkick of the moonblock while holding right and when you're in line with it, do a right dash and neutral super. The jump of the super should not be in coyote, so try to aim for middle or right side of the block.
+   Do an updash and an upright to get to the moonblock. Land and buffer an updash and delay another updash. Buffer a left jump when you land again. Wallkick low of the moonblock while holding right and when you're in line with it, do a right dash and neutral super. The jump of the super should not be in coyote, so try to aim for middle or right side of the block.
    Do an updemo and drift slightly to the right before doing the right dash.
    \
    An annoying part is the trigger you don't see, so I recommend practicing with the hitbox view of [Celeste TAS](https://gamebanana.com/tools/6715). For more setups I recommend the [video guide by fishmcmuffins](https://www.youtube.com/watch?v=al_3Wu27C4M).
@@ -575,18 +575,124 @@ Also moonblocks move on a cycle so be aware of that if you set save states or us
 ## Reconcilation
 \
  <img src="https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/j-00b.webp" width="384" height="216"/>
- <img src="https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/i-00b-demo.webp" width="384" height="216"/>
- <img src="https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/i-01.webp" width="384" height="216"/>
- <img src="https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/i-02.webp" width="384" height="216"/>
+ <img src="https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/j-01.webp" width="384" height="216"/>
+ <img src="https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/j-02.webp" width="384" height="216"/>
+ <img src="https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/j-03.webp" width="384" height="216"/>
+ <img src="https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/j-05.webp" width="384" height="216"/>
+ <img src="https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/j-09.webp" width="384" height="216"/>
+ <img src="https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/j-10.webp" width="384" height="216"/>
+ <img src="https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/j-13.webp" width="384" height="216"/>
+ <img src="https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/j-14.webp" width="384" height="216"/>
  
   <details>
   <summary>farewell-j-00b</summary>
   
   ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/j-00b.webp)
   \
-  ![cue](https://cdn.discordapp.com/attachments/752203178715644024/1022612237120184350/unknown.png)
+  ![cue](https://cdn.discordapp.com/attachments/752203178715644024/1063521386762604564/image.png)
   \
+  This strat is kinda weird but I personally jump and wait until I'm above the electricity before doing a downdash and then super and updemo. An updemo allows you to just hold grab without flying away when grabbing the jelly.
+  \
+  ![cue](https://cdn.discordapp.com/attachments/752203178715644024/1063525802597167155/image.png)
+  ![cue](https://cdn.discordapp.com/attachments/752203178715644024/1063522958783549480/image.png) 
+  ![cue](https://cdn.discordapp.com/attachments/752203178715644024/1063526854692196363/image.png)  
+  \
+  Another thing that is hard but has 3 parts to make it more managable. First thing which I didn't screenshot is to hit the spring on the right side. Release directions and shortly after launching of the spring start holding right again. For me this is after passing the bottom part of the electricity on the left where I repress right. After Madeline's head passes the bottom of the electricity you throw the jelly and do a normal upright when in the middle of the vaporisation gate. 
+ </details>
+ 
+  <details>
+  <summary>farewell-j-01</summary>
   
+  ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/j-01.webp)
+  \
+  ![cue](https://cdn.discordapp.com/attachments/752203178715644024/1063530144452587590/image.png)
+  \
+  Ok first, demo into the bird because you will be launched higher if you do that. With this you can skip doing a climbjump before hitting the spring.
+  \
+  Downright when you reach the side of the lower corner. Doing it later loses a bunch of time.
+  \
+  ![cue](https://cdn.discordapp.com/attachments/752203178715644024/1063532044069646356/image.png)
+  \
+  I personally do this because it's the easiest to optimise, this is not necessarily faster. Downright on the left side of this higher spinner of this gap to hit the box for the first time. Then you can just hold downright and buffer a downright dash on the power box and buffer downleft into it to hit it a second time.
+ </details>
+ 
+  <details>
+  <summary>farewell-j-02</summary>
   
+  ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/j-02.webp)
+  \
+  Not really a cue but this room has 2 things that aren't obvious from just looking at a run. First after the badeline orb you just release grab on the pickup animation and you will throw the jelly at the perfect position to be able to right dash into it. Second you jump after breaking the power source box in coyote time. This gives you a bit more height to be able to demohyper or cornerboost out of the room. Hold grab to cornerboost if you're too low.
+ </details>
+  
+  <details>
+  <summary>farewell-j-03</summary>
+  
+  ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/j-03.webp)
+  \
+  ![cue](https://cdn.discordapp.com/attachments/752203178715644024/1063538132789776544/image.png)
+  \
+  Right dash when in line with the rubble and just hold right.
+  \
+  ![cue](https://cdn.discordapp.com/attachments/752203178715644024/1063538426865000510/image.png)
+  \
+  Downright when between the two top spinners. 
+ </details>
+  
+  <details>
+  <summary>farewell-j-05</summary>
+  
+  ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/j-05.webp)
+  \
+  ![cue](https://cdn.discordapp.com/attachments/752203178715644024/1063546273933819974/image.png)
+  \
+  Again downright dash when in line with the rubble
+ </details>
+ 
+  <details>
+  <summary>farewell-j-09</summary>
+  
+  ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/j-09.webp)
+  \
+  ![cue](https://cdn.discordapp.com/attachments/752203178715644024/1063547935637393478/image.png)
+  \
+  If you hyper bhop and upright into the jelly and held grab beforehand, you can just hold right and you will hit the left side of the spring. Then you want to get really close to the electricity (see screenshot) before throwing the jelly and upright dashing. Then right dash at peak height of the updash and hold grab after.
+ </details>
+ 
+  <details>
+  <summary>farewell-j-10</summary>
+  
+  ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/j-10.webp)
+  \
+  ![cue](https://cdn.discordapp.com/attachments/752203178715644024/1063555809075789844/image.png)
+  \
+  Release directions after the fish bop and fast fall down. After dashing into the orb hold left. Buffer a fullheight wallkick while holding left and only press right after the jump input has come out. Right dash when you're really close to the electricity. 
+ </details>
+ 
+  <details>
+  <summary>farewell-j-13</summary>
+  
+  ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/j-13.webp)
+  \
+  ![cue](https://cdn.discordapp.com/attachments/752203178715644024/1063558862847885353/image.png)
+  \
+  Right dash when on the right side of the 2nd last pillar of electricity.
+ </details>
+ 
+  <details>
+  <summary>farewell-j-14</summary>
+  
+  ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/j-14.webp)
+  \
+  ![cue](https://cdn.discordapp.com/attachments/752203178715644024/1063562852193018016/image.png)
+  \
+  First part of the room sucks but you just have to make sure to hit the 2nd fish high with an upleft so you can downright onto the third fish in the room. After getting to the bird right dash again at the rubble and hold downright. Technically downdash is faster but harder to optimise and to get to the right position for the next strat.
+  \
+  ![cue](https://cdn.discordapp.com/attachments/752203178715644024/1063564490802733187/image.png)
+  \
+  Start the reverse hyper when under the middle of this lower bit of electricity. This is more lenient than it seems and at worse you will most often just hit Badeline.
+ </details>
+  
+----
 ## Farewell
+\
 [⇦ Back to Main Page](https://github.com/Tiyo98/farewell-cue-collection)
