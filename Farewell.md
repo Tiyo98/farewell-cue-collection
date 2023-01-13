@@ -496,8 +496,12 @@ Also moonblocks move on a cycle so be aware of that if you set save states or us
  <img src="https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/i-04.webp" width="384" height="216"/>
  <img src="https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/i-05.webp" width="384" height="216"/>
  \
- First for Stubbornness you have to know that the cycles are global instead of only covering a single room like in the rest of the game. As the cycles are different speed you may wonder how they work which is actually pretty simple. Think of a full cycle as a loading progress bar and that progress gets carried over into the next room. This also means that practicing and learning rooms is a pain here so when practicing try to pausebuffer save states and play through the rooms normally to not mess with the cycles.
- 
+ The cycles in stubbornness are not quite "global" as lots of folks will say they are. The only "global" aspect of them is the amount of progress between the "strong" and "weak" beats, aka the progress between color changes, when you hit a room transition. The current state of what color blocks are active does not carry between rooms at all.
+ \
+ As for what color will be active when you enter the next room, it seems designed around the idea that after you hit the transition, the next color change you see will be blue blocks activating. That means you'll usually see the color before blue as active when the transition ends.
+ \
+ The only exception to this is when you hit a transition immediately before colors change (there's some threshold that i'm not sure of). In that case, I guess the decision was that they don't want blue to activate too quickly after the transition, so instead the active color will be 2 colors before blue in the cycle instead of just 1. This can be confusing because there are a few rooms that only have blue and pink blocks, so 2 colors before blue is blue again.
+
   <details>
   <summary>farewell-i-00</summary>
   
@@ -551,9 +555,10 @@ Also moonblocks move on a cycle so be aware of that if you set save states or us
   
   ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/i-04.webp)
   \
-  ![cue]()
+  ![cue](https://cdn.discordapp.com/attachments/752203178715644024/1022604668024651817/unknown.png)
+  ![cue](https://cdn.discordapp.com/attachments/752203178715644024/1022604874132762685/unknown.png)
   \
-  Have to get a clean room before and see how and if it even works for your strat but it definitely works with the common high level strat. Updash into the pink block and fast fall into the bubble. Then fast bubble everything and downright at the edge of the blue block.
+  Have to get a clean room before and see how, and if, it even works for your strat but it definitely works with the common high level strat which enters the room right before the pink block disappears. Updash into the pink block and fast fall into the bubble. Then fast bubble everything and downright dash and hold downright at the edge of the blue block. You can dash right into the third bubble of the room which can make buffering easier, but you should experiment yourself.
  </details>
  
   <details>
@@ -561,12 +566,27 @@ Also moonblocks move on a cycle so be aware of that if you set save states or us
   
   ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/i-05.webp)
   \
-  ![cue]()
+  ![cue](https://cdn.discordapp.com/attachments/752203178715644024/1022612237120184350/unknown.png)
   \
   Normal!!! upright dash when between the blue and yellow block. A demo will send you too high after hitting the spring because you reach the spring later. See if skipping the pink block or not is easier for you. Should barely make a time difference.
  </details>
  
 ----
 ## Reconcilation
+\
+ <img src="https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/j-00b.webp" width="384" height="216"/>
+ <img src="https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/i-00b-demo.webp" width="384" height="216"/>
+ <img src="https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/i-01.webp" width="384" height="216"/>
+ <img src="https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/i-02.webp" width="384" height="216"/>
+ 
+  <details>
+  <summary>farewell-j-00b</summary>
+  
+  ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/j-00b.webp)
+  \
+  ![cue](https://cdn.discordapp.com/attachments/752203178715644024/1022612237120184350/unknown.png)
+  \
+  
+  
 ## Farewell
 [⇦ Back to Main Page](https://github.com/Tiyo98/farewell-cue-collection)
