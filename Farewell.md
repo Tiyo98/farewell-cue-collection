@@ -524,7 +524,7 @@ Also moonblocks move on a cycle so be aware of that if you set save states or us
   ![cue](https://cdn.discordapp.com/attachments/752203178715644024/966313512311873596/unknown.png)
   \
   If you did the entry correctly into this room you should be able to do a downright here at the beginning and then climbjump up to be able to wavedash and ultra off the blue block. Don't buffer the jump but don't get huge coyote as you can make it impossible to get a demo window as you need to be falling for that. Lining up Madeline's bottom hair pixel with the outsticking top part off the spinner is the cue I use for the demo. Fast fall immediately after the demo as the cycle is tight. If you entered the room too late the blue block disappeared. Very sad day but it's a hard cycle. 
-  \  
+ 
   ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/i-00b-safe.webp)
   \
   If you don't wanna do the demo I recommend this strat. Also good when you die so learn it either way. You have to hold jump off the wallbounce while still grabbing the green block as you need the half gravity. You climb up to the top and hold right+jump. Because of the half gravity at the beginning you barely make it to the pink block and can then climb up the block and buffer a downright into the spring. Otherwise you can be too fast.
