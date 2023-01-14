@@ -56,7 +56,7 @@ This section will explain all relevant jelly mechanics for speedrunning Farewell
 \
  ![gif](https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/farewell/jellybackthrow.webp)
  \
- Throwing a jelly gives you backwards momenutum for a very short ammount of time. If you throw it backwards and immediately dash you keep that backwards momentum.
+ Throwing a jelly gives you backwards momenutum for a very short amount of time. If you throw it backwards and immediately dash you keep that backwards momentum.
  
 ----
 ## Others

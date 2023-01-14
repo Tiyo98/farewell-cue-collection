@@ -59,9 +59,9 @@ Also moonblocks move on a cycle so be aware of that if you set save states or us
   
   ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/a-01.webp)
   \
-  ![cue](https://media.discordapp.net/attachments/752203178715644024/901081894739922994/unknown.png)
+  ![cue](https://cdn.discordapp.com/attachments/752203178715644024/1063943720329822258/Celeste_o66bogpcZl.png)
   \
-  Wavedash with a low jump and start buffering dashes at the cue so you land before the transition.
+  Wavedash with a low jump and start buffering dashes at the cue. Demohyper and downright into the transition. If you're too high to do a midair demohyper, just drop a bit or right dash and demo/downright into the transition.
  </details>
  
   <details>
@@ -89,7 +89,7 @@ Also moonblocks move on a cycle so be aware of that if you set save states or us
   \
   ![cue](https://media.discordapp.net/attachments/752203178715644024/901106095496527932/unknown.png)
   \
-  Try to neutral climbjump up and hold right for the last climbjump. That last climbjump should be on the top part of the dash block. Neutral off the last retreating dash block. Diag demo so you reach the ceiling later and have more height. You can do a second upright demo for safety if you can't get over with a right dash consistently.
+  Try to neutral climbjump up and hold right for the last climbjump. That last climbjump should be on the top part of the dash block. Neutral climbjump off the last retreating dash block. Diag demo so you reach the ceiling later and have more height. You can do a second upright demo for safety if you can't get over with a right dash consistently.
  </details>
  
   <details>
@@ -338,7 +338,7 @@ Also moonblocks move on a cycle so be aware of that if you set save states or us
   \
   ![cue](https://cdn.discordapp.com/attachments/752203178715644024/966055468390809640/unknown.png)
   \
-  Can be an annoying room because of the downright and feel impossible but if you wait until the block has reached the very end of the track and you are up roughly 2/3 or 3/4 of the block it works. Semi decent cue for that is if Madeline's hand is horizontally alligned with the green part of the block
+  Can be an annoying room because of the downright and feel impossible but if you wait until the block has reached the very end of the track and you are up roughly 2/3 or 3/4 of the block it works. Semi decent cue for that is if Madeline's hand is horizontally alligned with the green part of the block. Then jump and buffer the downright dash out of the crystal freeze frames. 
  </details>
   
   <details>
@@ -348,12 +348,12 @@ Also moonblocks move on a cycle so be aware of that if you set save states or us
   \
   ![cue](https://cdn.discordapp.com/attachments/752203178715644024/966057441592766494/unknown.png)
   \
-  Important for the entry is that you hyper from not too far left, as long as you're past the first weird coral bg tile you can full height hyper into the transition and release jump when you're inside it.
+  Important for the entry is that you hyper from not too far left, as long as you're past the first weird coral bg tile you can full height hyper and release jump inside the transition.
   \
   ![cue](https://cdn.discordapp.com/attachments/752203178715644024/966059169042022521/unknown.png)
   ![cue](https://cdn.discordapp.com/attachments/752203178715644024/966059335614619738/unknown.png)
   \
-  Getting under is quite lenient but still look for these 2 visually different hand animations for the grab to be safe and you should be fine
+  Getting under can be tricky but just look for these 2 visually different hand animations for the grab and you should be fine.
  </details>
  
   <details>
@@ -571,7 +571,8 @@ Also moonblocks move on a cycle so be aware of that if you set save states or us
   \
   ![cue](https://cdn.discordapp.com/attachments/752203178715644024/1022612237120184350/unknown.png)
   \
-  **Normal!!!** upright dash when between the blue and yellow block. A demo will send you too high after hitting the spring because you reach the spring later. See if skipping the pink block or not is easier for you. Should barely make a time difference.
+  **Normal!!!** upright dash when between the blue and yellow block. A demo will send you too high after hitting the spring because you reach the spring later. Also holding grab will cause you to grab the pink block so refrain from holding grab here as well.</b>
+  See if skipping the pink block or not is easier for you. Should barely make a time difference.
  </details>
  
 ----
