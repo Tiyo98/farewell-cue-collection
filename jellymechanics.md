@@ -1,6 +1,6 @@
 # Jelly Mechanics
 ![header](https://cdn.discordapp.com/attachments/752203178715644024/910956932754456596/20211117233942_1.jpg)
-This section will explain all relevant jelly mechanics for speedrunning Farewell, that where not needed when playing through the chapter casually. There are some pretty niche ones so I recommend reading them even if you think you know most of them.
+This section will explain all relevant jelly mechanics for speedrunning Farewell that were not needed when playing through the chapter casually. There are some pretty niche ones so I recommend reading them even if you think you know most of them.
 
 - [Basic Mechanics](#basic-mechanics)
 - [Jellyvator](#jellyvator)
@@ -11,8 +11,8 @@ This section will explain all relevant jelly mechanics for speedrunning Farewell
 ## Basic Mechanics
 \
  Already with just normally grabbing a jelly there are some differences with how you fall when holding it.
- <img src="https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/farewell/jellyholddown.webp" width="384" height="216"/>
  <img src="https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/farewell/jellyholdnothing.webp" width="384" height="216"/>
+ <img src="https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/farewell/jellyholddown.webp" width="384" height="216"/>
  \
  First there is falling with a jelly and holding no direction. For fast falling you just hold down. Both of these are pretty self explanatory.
  \
@@ -31,14 +31,14 @@ This section will explain all relevant jelly mechanics for speedrunning Farewell
 \
  ![gif](https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/farewell/jellyvator.webp)
  \
- Jellyvators make use of a useful mechanic where you drop it by holding down while you release grab which makes the jelly drop in place. You can dash up into it afterwards to gain a huge height boost. This is a Jellyvator.
+ Jellyvators make use of a useful mechanic where you drop it by releasing grab while holding down which makes the jelly drop in place. You can dash up into it afterwards and grab the jelly to gain a huge height boost. This is a Jellyvator.
 
 ----
 ## Jellyultra
 \
  ![gif](https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/farewell/jellyultra.webp)
  \
- When you dash diagonally down with momentum like from a hyper you keep your speed until the dash runs out. If you hit the ground you gain a 1.2x speed modifier but that also runs out when the dash ends. This can be cancelled when picking up objects like jellies which lets you fly across the screen.
+ When you dash diagonally down with speed like from a hyper, you keep your speed until the dash runs out. If you hit the ground, you gain a 1.2x speed modifier, but your resulting speed only lasts until the dash ends. To avoid losing speed at the end of the dash, you can cancel the dash by picking up objects like jellies and this lets you fly across the screen.
  
 ----
 ## Regrabs
@@ -49,24 +49,24 @@ This section will explain all relevant jelly mechanics for speedrunning Farewell
  \ 
  ![gif](https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/farewell/jellythrowdelay.webp)
  \
- There is a certain period after grabbing a jelly where you can't throw it. This is only useful in a handful of places but it's very good to know.
+ There is a certain period after grabbing a jelly where you can't throw it. In the above clip it shows how you can release grab any time before this period is over, and the jelly will just get thrown as soon as possible. This is only useful in a handful of places but it's very good to know.
 
 ----
 ## Backboosts
 \
  ![gif](https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/farewell/jellybackthrow.webp)
  \
- Throwing a jelly gives you backwards momenutum for a very short amount of time. If you throw it backwards and immediately dash you keep that backwards momentum.
+ Throwing a jelly gives you some speed in the opposite direction. This typically doesn't last long because the extra speed decays due to friction. By dashing immediately after throwing a jelly backwards, you're able to keep that extra speed for a bit longer.
  
 ----
 ## Others
 \
  ![gif](https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/farewell/jellydowndrop.webp)
  \
- When repressing down on the ground you drop the jelly.
+ Repressing down on the ground you drop the jelly.
  ![gif](https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/farewell/jellynodrop.webp)
  \
- If you hold down all the way from before reaching the ground and don't release it you don't drop it though.
+ However, if down is pressed before reaching the ground and is continuously held, you won't drop it.
  \
  <img src="https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/farewell/jellygrabhold.webp" width="384" height="216"/>
  <img src="https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/farewell/jellygrabdelay.webp" width="384" height="216"/>
@@ -80,7 +80,7 @@ This section will explain all relevant jelly mechanics for speedrunning Farewell
  <img src="https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/farewell/jellyregrabdemo.webp" width="384" height="216"/>
  <img src="https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/farewell/jellyupdemo.webp" width="384" height="216"/>
  \
- There is also a delay of regrabbing a jelly. When you buffer a dash to regrab a jelly the dash ends before you're able to regrab it. For demo this is important as you can only grab a jelly when crouched if you're in dash state. But as the dash ended you have to wait until you're uncrouched as you can't grab it while crouched. This happens when you start falling so you don't have upwards momentum that gives you a boost. The same principle applies if you reach a jelly late like in the 2nd gif as the dash ended before you reach it.
+ There is also a cooldown of regrabbing a jelly. When you buffer the dash for a regrab, the dash ends before you're able to regrab it. This is important for regrabs that use demo since the only way to grab a jelly when crouched is if you're in dash state. Buffering the demo means you can't grab the jelly during dash state since grabbing the jelly is still in cooldown. After the dash ends, you're still crouched until you get uncrouched from moving downwards. This means the earliest possible grab is when you start moving downwards after dash state is over, so you won't get the boost. The same principle applies if you reach a jelly late like in the 2nd gif as the dash ended before you reach it.
 \
 [⇦ Back to Main Page](https://github.com/Tiyo98/farewell-cue-collection)
 
