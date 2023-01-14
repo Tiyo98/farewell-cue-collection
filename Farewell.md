@@ -2,7 +2,7 @@
 ![header](https://cdn.discordapp.com/attachments/752203178715644024/901051628013105212/20211022121702_1.jpg)
 **Important note:** This is for Farewell with the Dash Trigger Skip or short DTS which allows you to play Farewell up to Stubborness with 2 dashes. Cues for 1 dash Farewell are not planned as of yet, but some strats are similar and from [Stubbornness](#stubbornness) onwards it's the same as 1 dash.
 \
-Jelly mechanics are kinda weird at first so I recommend you give [Jelly Mechanics](https://github.com/Tiyo98/farewell-cue-collection/blob/main/jellymechanics.md) a read as I mostly assume in this that you know them.
+Jelly mechanics are kinda weird at first so I recommend you give [Jelly Mechanics](https://github.com/Tiyo98/farewell-cue-collection/blob/main/jellymechanics.md). I do explain some important ones again but it's highly recommend to read it first regardless.
 Also moonblocks move on a cycle so be aware of that if you set save states or use the debug map when practicing.
 - [Start](#start)
 - [Singular](#singular)
@@ -11,7 +11,7 @@ Also moonblocks move on a cycle so be aware of that if you set save states or us
 - [Event Horizon](#event-horizon)
 - [Determination](#determination)
 - [Stubbornness](#stubbornness)
-- [Reconcilation](#reconcilation)
+- [Reconciliation](#reconciliation)
 - [Farewell](#farewell)
 
 ## Start
@@ -26,9 +26,9 @@ Also moonblocks move on a cycle so be aware of that if you set save states or us
   \
   ![cue](https://cdn.discordapp.com/attachments/752203178715644024/992144265746599986/Celeste_splGP8XymF.png)
   \
-  Pausebuffer a talk out of a pause and then a jump out of the next pause. You can't interact with the grave in dash state so you have to wait until it's over or don't dash. Important that you have to release talk before the jump. Can also use a pause+talk button but be aware that you have to release it before the unpause is over.
+  Pausebuffer a talk out of a pause and then a fullheight jump out of the next pause. You can't interact with the grave in dash state so you have to wait until it's over or don't dash. Important that you have to release talk before the jump. It's highly recommended to use a pause+talk button for this. You can bind talk to your normal pause button without any currently known issues, but be aware that you have to release it before the last unpause is over.
   \
-  There are 2 options now. You can count how many bounces the white arrow in the bottom right of thext box does. Skip the cutscene after 11 bounces. Or alternatively wait until Madeline is off screen and look at the timer and wait 15 seconds before skipping the cutscene.
+  There are 2 options now. The recommended one is that you can count how many bounces the white arrow in the bottom right of text box does. Skip the cutscene after 11 bounces. Or alternatively wait until Madeline is off screen and look at the timer and wait 15 seconds before skipping the cutscene.
  </details>
  
   <details>
@@ -53,9 +53,6 @@ Also moonblocks move on a cycle so be aware of that if you set save states or us
  <img src="https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/a-02.webp" width="384" height="216"/>
  <img src="https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/a-03.webp" width="384" height="216"/>
  <img src="https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/a-04.webp" width="384" height="216"/>
- <img src="https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/b-01.webp" width="384" height="216"/>
- <img src="https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/b-03.webp" width="384" height="216"/>
- <img src="https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/b-07.webp" width="384" height="216"/>
 
   <details>
   <summary>farewell-a-01</summary>
@@ -64,7 +61,7 @@ Also moonblocks move on a cycle so be aware of that if you set save states or us
   \
   ![cue](https://media.discordapp.net/attachments/752203178715644024/901081894739922994/unknown.png)
   \
-  Wavedash with a low jump and start buffering dashes at the cue so you land before the transition
+  Wavedash with a low jump and start buffering dashes at the cue so you land before the transition.
  </details>
  
   <details>
@@ -92,7 +89,7 @@ Also moonblocks move on a cycle so be aware of that if you set save states or us
   \
   ![cue](https://media.discordapp.net/attachments/752203178715644024/901106095496527932/unknown.png)
   \
-  Try to neutral climbjump up and hold right for the last climbjump. That last climbjump should be on the top part of the dash block. After the neutral jump of the retreating dash block you want to diag demo so you reach the ceiling later and have more height. You can do a second upright demo for safety if you can't get over with a right dash consistently..,..
+  Try to neutral climbjump up and hold right for the last climbjump. That last climbjump should be on the top part of the dash block. After the neutral jump of the retreating dash block you want to diag demo so you reach the ceiling later and have more height. You can do a second upright demo for safety if you can't get over with a right dash consistently.
  </details>
  
   <details>
@@ -102,7 +99,7 @@ Also moonblocks move on a cycle so be aware of that if you set save states or us
   \
   ![cue](https://media.discordapp.net/attachments/752203178715644024/901131255318458399/unknown.png)
   \
-  Get a low height cornerboost in the previous room and buffer the dash for the wavedash out of transition. Jump late on the wavedash so you get a lot of coyote. Buffer all 3 dashes(right,upright demo, downright) when you reach the corner. 
+  Get a low height cornerboost in the previous room and buffer the dash for the wavedash out of transition. Jump late on the wavedash so you get a lot of coyote. Buffer all 3 dashes(right, upright demo, downright) when you reach the corner. 
   \
   ![cue](https://media.discordapp.net/attachments/752203178715644024/901131378077352026/unknown.png)
   \
@@ -121,7 +118,7 @@ Also moonblocks move on a cycle so be aware of that if you set save states or us
   \
   ![cue](https://media.discordapp.net/attachments/752203178715644024/909441271469330492/unknown.png)
   \
-  In the previous room start the jump for the super when you reach the middle of this koral arc.
+  In the previous room start the jump for the super when you reach the middle of this coral arc.
   \
   ![cue](https://media.discordapp.net/attachments/752203178715644024/909443177524633600/unknown.png)
   \
@@ -149,7 +146,7 @@ Also moonblocks move on a cycle so be aware of that if you set save states or us
   \
   ![cue](https://cdn.discordapp.com/attachments/752203178715644024/901168976497901589/unknown.png)
   \
-  This should work if you buffer the dashes when you fastfall but if you slowfall at some point you can die. Can also try to react instead of buffer and do it in the middle of the crystal.
+  I tried to find something to make this not feel like RNG, but sometimes depending on positioning you can't buffer the left demo. Either take the gamble or just slowfall a bit and make sure to not buffer.
  </details>
  
 ----  
@@ -158,7 +155,6 @@ Also moonblocks move on a cycle so be aware of that if you set save states or us
  <img src="https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/c-alt-00.webp" width="384" height="216"/>
  <img src="https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/c-alt-01.webp" width="384" height="216"/>
  <img src="https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/d-00.webp" width="384" height="216"/>
- <img src="https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/d-05(slow).webp" width="384" height="216"/>
  <img src="https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/d-05(fast).webp" width="384" height="216"/>
  
   <details>
@@ -168,11 +164,11 @@ Also moonblocks move on a cycle so be aware of that if you set save states or us
   \
   ![cue](https://media.discordapp.net/attachments/752203178715644024/903657651915849759/unknown.png)
   \
-  Important for the upright into the jelly is to do it into the bottom left or bottom of it. If you do it into the middle left side you can be too high even if you fast fall all the way.
+  Important for the upright into the jelly is to do it into the bottom left or bottom of it. If you do it into the middle left side you can be too high even if you fast fall all the way. Also this upright isn't fast if you jump late on the wavedash
   \
   ![cue](https://cdn.discordapp.com/attachments/752203178715644024/903660365374697472/vlcsnap-2021-10-29-17h03m15s101.png)
   \
-  Not really a cue, but to guarentee a clean landing, throw the jelly pretty late before the jelly regrab.
+  Not really a cue, but to guarantee a clean landing, throw the jelly pretty late before the jelly regrab.
  </details>
   
   <details>
@@ -223,8 +219,8 @@ Also moonblocks move on a cycle so be aware of that if you set save states or us
 \
  <img src="https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/e-03.webp" width="384" height="216"/>
  <img src="https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/e-04.webp" width="384" height="216"/>
+ <img src="https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/e-05.webp" width="384" height="216"/>
  <img src="https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/e-07.webp" width="384" height="216"/>
- <img src="https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/e-08.webp" width="384" height="216"/>
   
   <details>
   <summary>farewell-e-03</summary>
@@ -244,11 +240,22 @@ Also moonblocks move on a cycle so be aware of that if you set save states or us
   
   ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/e-04.webp)
   \
-  ![cue](https://media.discordapp.net/attachments/752203178715644024/909458151785517127/unknown.png)
+  ![cue](https://cdn.discordapp.com/attachments/752203178715644024/1063901531138695178/image.png)
+  ![cue](https://cdn.discordapp.com/attachments/752203178715644024/1063903219467702354/Celeste_NIcDUx0NqR.png)
   \
-  The strat is significantly easier if you jump a bit later for the demohyper in the previous room. Release jump for the hyper in the transition and then hold downright after. When you reach the cue release down and only hold right.
+  Buffer the jump on the demohyper in the previous room. Hold jump for the whole strat even after the jelly grab. Buffer a downright after the transition and delay the grab for the jelly. Hold upright and the jump from the hyper and you should glide through the gap. Hold downright past the door. If the grab delay is awkward you can neutral demohyper. So demohyper without holding right. This loses quite a bit of time but you can hold grab with this.
   \
-  No cue for the end part, but just a tip; because of jelly throw cooldown you can release grab immediately and the end strat just works.
+  No cue for the end part, but just a tip; because of jelly throw cooldown you can release grab immediately and the end strat just works as long as the jelly is high enough up.
+ </details>
+ 
+  <details>
+  <summary>farewell-e-05</summary>
+  
+  ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/e-05.webp)
+  \
+  ![cue](https://media.discordapp.net/attachments/1041087674162884619/1041087856388620288/image.png)
+  \
+  Grounded ultra into the room so you have to adjust less horizontally. Then hit the block from the side and just slowfall and hold left when reaching this narrow part of the bg tile until you hit the coin
  </details>
  
   <details>
@@ -259,7 +266,9 @@ Also moonblocks move on a cycle so be aware of that if you set save states or us
   ![cue](https://media.discordapp.net/attachments/752203178715644024/909462817088880720/unknown.png)
   ![cue](https://cdn.discordapp.com/attachments/752203178715644024/966096795279183972/unknown.png)
   \
-  Updash when you reach the piece of floaty rubble. It can help to updemo the updash. Buffer the first upright and delay the next 2 upright dashes. The last upright has to be a demo. Try doing that last one inbetween the bg tile and the spinners. 
+  Even the beginning part is a setup for this room. Try to hit the left side of the spring, don't move and just press dash to get to the spring again. Wait until you start falling and then upright dash and hold right and jump and you will get a good angle to do the next part.
+  \
+  Updash when you reach the piece of floaty rubble. Delay the next 3 upright dashes. The last upright has to be a demo. Try doing that last one inbetween the bg tile and the spinners. 
  </details>
   
   <details>
@@ -284,8 +293,6 @@ Also moonblocks move on a cycle so be aware of that if you set save states or us
  <img src="https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/f-06-1.webp" width="384" height="216"/>
  <img src="https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/f-07.webp" width="384" height="216"/>
  <img src="https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/f-08.webp" width="384" height="216"/>
- <img src="https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/g-03.webp" width="384" height="216"/>
- <img src="https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/g-05.webp" width="384" height="216"/>
  
   <details>
   <summary>farewell-f-05</summary>
@@ -363,7 +370,7 @@ Also moonblocks move on a cycle so be aware of that if you set save states or us
  </details>
  
   <details>
-  <summary>farewell-g-04</summary>
+  <summary>farewell-g-04, comb room</summary>
   
   ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/g-04.webp)
   \
@@ -374,11 +381,11 @@ Also moonblocks move on a cycle so be aware of that if you set save states or us
   ![cue](https://media.discordapp.net/attachments/752203178715644024/933909670446387260/unknown.png)
   ![cue](https://media.discordapp.net/attachments/752203178715644024/933910227252838440/unknown.png)
   \
-  Do a tiny jump when you're between the two spinners and upright when you're in line with the background pillar. Also have to be pretty low before the upright, roughly when the feet touches the spinners.
+  Do a fullheight jump when you're between the two spinners and upright when you're past the background pillar and nearly touch the spinner below you.
   \
   ![cue](https://media.discordapp.net/attachments/752203178715644024/933912477618561054/unknown.png)
   \
-  Hit the spring low and fast fall and buffer a climbjump. Upright dash when you're past the bottom spinner and uprgiht demo when you're close to the right wall with spinners. The jump timing for the cornerkick will feel weird as you slide under the wall but just make sure to input the jump slightly later than you think.
+  Hit the spring low and hold downright to fast fall and buffer a climbjump. Upright dash when you're past the bottom spinner and uprgiht demo when you're close to the right wall with spinners. The jump timing for the cornerkick will feel weird as you slide under the wall but just make sure to input the jump slightly later than you think.
  </details>
   
   <details>
@@ -397,8 +404,6 @@ Also moonblocks move on a cycle so be aware of that if you set save states or us
  <img src="https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/h-02.webp" width="384" height="216"/>
  <img src="https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/h-03b.webp" width="384" height="216"/>
  <img src="https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/h-06.webp" width="384" height="216"/>
- <img src="https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/h-06b.webp" width="384" height="216"/>
- <img src="https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/h-09.webp" width="384" height="216"/>
  <img src="https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/h-10-2.webp" width="384" height="216"/>
   
   <details>
@@ -493,8 +498,6 @@ Also moonblocks move on a cycle so be aware of that if you set save states or us
  <img src="https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/i-00b-demo.webp" width="384" height="216"/>
  <img src="https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/i-01.webp" width="384" height="216"/>
  <img src="https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/i-02.webp" width="384" height="216"/>
- <img src="https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/i-04.webp" width="384" height="216"/>
- <img src="https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/i-05.webp" width="384" height="216"/>
  \
  The cycles in stubbornness are not quite "global" as lots of folks will say they are. The only "global" aspect of them is the amount of progress between the "strong" and "weak" beats, aka the progress between color changes, when you hit a room transition. The current state of what color blocks are active does not carry between rooms at all.
  \
@@ -568,21 +571,16 @@ Also moonblocks move on a cycle so be aware of that if you set save states or us
   \
   ![cue](https://cdn.discordapp.com/attachments/752203178715644024/1022612237120184350/unknown.png)
   \
-  Normal!!! upright dash when between the blue and yellow block. A demo will send you too high after hitting the spring because you reach the spring later. See if skipping the pink block or not is easier for you. Should barely make a time difference.
+  **Normal!!!** upright dash when between the blue and yellow block. A demo will send you too high after hitting the spring because you reach the spring later. See if skipping the pink block or not is easier for you. Should barely make a time difference.
  </details>
  
 ----
-## Reconcilation
+## Reconciliation
 \
  <img src="https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/j-00b.webp" width="384" height="216"/>
  <img src="https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/j-01.webp" width="384" height="216"/>
  <img src="https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/j-02.webp" width="384" height="216"/>
  <img src="https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/j-03.webp" width="384" height="216"/>
- <img src="https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/j-05.webp" width="384" height="216"/>
- <img src="https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/j-09.webp" width="384" height="216"/>
- <img src="https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/j-10.webp" width="384" height="216"/>
- <img src="https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/j-13.webp" width="384" height="216"/>
- <img src="https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/j-14.webp" width="384" height="216"/>
  
   <details>
   <summary>farewell-j-00b</summary>
@@ -695,4 +693,74 @@ Also moonblocks move on a cycle so be aware of that if you set save states or us
 ----
 ## Farewell
 \
+ <img src="https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/j-16-1.webp" width="384" height="216"/>
+ <img src="https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/j-16-2.webp" width="384" height="216"/>
+ <img src="https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/j-16-3.webp" width="384" height="216"/>
+ <img src="https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/j-16-4.webp" width="384" height="216"/>
+ 
+  <details>
+  <summary>farewell-j-16, Final Screen</summary>
+  
+  This final room is long and tedious and actually has quite a few a strats that either can save quite a bit or are can be made relatively easy with cues. I will break up the room in a lot of little gifs and talk about them.
+  ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/j-16-1.webp)
+  \
+  ![cue](https://cdn.discordapp.com/attachments/752203178715644024/1063826570973823076/Celeste_LVT62zlKWI.png)
+  \
+  First is this cutscene ultra. You lose a lot of speed if you don't skip the cutscene early so you have to really greed that pause. I personally pause when Madeline reaches the corner.
+  \
+  Next up is going under the second fish. 
+  \
+  ![cue](https://cdn.discordapp.com/attachments/752203178715644024/1063866058471125032/Celeste_AISRRStc9l.png)
+  \
+  Get close to the dotted line and throw the jelly and release right just to the left of the fish. Then fall down a bit and upright when the jelly is to the right of the fish.
+  \
+  No picture for the end of that clip but just make sure to throw the jelly right before the electricity and fall a bit and then downleft into the fish. Also don't fishboost, just hold left until the next dash. Upright into the jelly and hold left before reaching the wall that vaporises the jelly.
+  
+  ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/j-16-2.webp)
+  \
+  ![cue](https://cdn.discordapp.com/attachments/752203178715644024/1063868292579741828/Celeste_Cxd0JSXuJk.png)
+  \
+  The blue squid in the background is our friend. Throw the jelly to the left when in the middle of it.
+  \
+  ![cue](https://cdn.discordapp.com/attachments/752203178715644024/1063868450356863006/Celeste_EmsYUmu0S6.png)
+  \
+  Right dash to the spring when past the gate.
+  
+  ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/j-16-3.webp)
+  \
+  ![cue](https://cdn.discordapp.com/attachments/752203178715644024/1063870301072527360/Celeste_n9lTRibvPA.png)
+  \
+  First you have to know to hold downright here before you get to the platform and until right after you jump to not accidentally throw it. To throw it at the coin just throw it when the top of the jelly reaches the bottom pixel of the electricity.
+  
+  ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/j-16-4.webp)
+  \
+  ![cue](https://cdn.discordapp.com/attachments/752203178715644024/1063871317490798682/Celeste_s5tRPQwenG.png)
+  \
+  For this downright, just do the dash when in the middle of the lower edge of the electricity. To get to the feather you often have to release right for a brief moment or tap left on keyboard. You will get a feel for it with practice.
+  
+  ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/j-16-5.webp)
+  \
+  ![cue](https://cdn.discordapp.com/attachments/752203178715644024/1063873340781121666/Celeste_u7Oj9rJllF.png)
+  \
+  If you're on keyboard or for some reason use dpad feathers, a good cue to go downleft on the feather is right above the fish. You have to do it slightly later if cut it really close to the fish. Also if you want to go extra safe, later is better anyway but you don't have to move past the fish before moving downleft.
+  \
+  Also on the fast fall before the upleft demo into the spring: Tap right once otherwise your position is slightly awkward and you won't be able to consistently hit the spring with an upleft demo.
+
+  ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/j-16-6.webp)
+  \
+  ![cue](https://cdn.discordapp.com/attachments/752203178715644024/1063874931470913587/Celeste_WVLtKNQesM.png)
+  \
+  The hyper is a way bigger window than you might think. Stand in the middle of the block and start an extended hyper when the corner of the block gets past the corner of the electricity. Also hold jump even after the jelly grab for half gravity.
+  \
+  Quick note for the upright into the jelly after the fish boost: If you upright really early you can hit the electricity if you just hold right. Just upright later to prevent that.
+  
+  ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/j-16-7.webp)
+  \
+  ![cue](https://cdn.discordapp.com/attachments/752203178715644024/1063876020198981762/Celeste_RGehGF0tsx.png)
+  \
+  The final stretch. There is some easy timesave that you can miss that I will note down: First, not in the gif but jump after the first dash into the block to cancel your momentum. Then after dashing into the bird make sure to hold right to get to the orbs and buffer updashes into the birds. Any other movement like dashing right or releasing right loses unnecessary time without changing the difficulty.
+  \
+  Finally updash when in line with the 2nd last spinner before the orb and the chapter is done!
+ </details>
+
 [⇦ Back to Main Page](https://github.com/Tiyo98/farewell-cue-collection)
