@@ -89,7 +89,7 @@ Also moonblocks move on a cycle so be aware of that if you set save states or us
   \
   ![cue](https://media.discordapp.net/attachments/752203178715644024/901106095496527932/unknown.png)
   \
-  Try to neutral climbjump up and hold right for the last climbjump. That last climbjump should be on the top part of the dash block. After the neutral jump of the retreating dash block you want to diag demo so you reach the ceiling later and have more height. You can do a second upright demo for safety if you can't get over with a right dash consistently.
+  Try to neutral climbjump up and hold right for the last climbjump. That last climbjump should be on the top part of the dash block. Neutral off the last retreating dash block. Diag demo so you reach the ceiling later and have more height. You can do a second upright demo for safety if you can't get over with a right dash consistently.
  </details>
  
   <details>

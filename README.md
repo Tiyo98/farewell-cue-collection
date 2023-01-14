@@ -11,7 +11,7 @@ You can access each markdown file through the table of contents, or by opening e
 ## Introduction
 This will show the cues for some minor or major strats I personally use in Farewell. This will only have Farewell DTS for now as it's the most relevant way to speedrun this chapter currently as it saves one minute compared to no DTS, but some strats are applicable for 1-Dash Farwell. 
 \
-**Notes**: This is most often, strats that I use, not necessarily the fastest ones. Also some strats I don't really use cues for them so they will not be listed, but for every strat I use one, it will be listed here. This is in no way a complete guide to learn the chapter, it's only a way to assist with running them. If you have a cue that you think should be added dm me on Discord (Tiyo#0575).
+**Notes**: This is most often strats that I use, not necessarily the fastest ones. Also some strats I don't really use cues for them so they will not be listed, but for every strat I use one, it will be listed here. This is in no way a complete guide to learn the chapter, it's only a way to assist with running them. If you have a cue that you think should be added dm me on Discord (Tiyo#0575).
 \
 I assume the reader already knows what each tech is named and what they do. I will not explain them here. If you need further help, go to the [Celeste discord server](https://discord.com/invite/celeste) and ask in the #speedrun-help channel.
 ## Formatting
