@@ -21,9 +21,9 @@ Attached below are some drawings of format of the guide, and you should read it 
 ![1](https://cdn.discordapp.com/attachments/293555577991200770/775444116707606558/unknown.png)
 ![for now](https://cdn.discordapp.com/attachments/293555577991200770/775400802339913768/unknown.png)
 ## Credits
-Thanks for buhbai and koralreef for the inspiration for this with their guides. And special shoutout again to koralreef as I'm basically just copying the formatting of [his collection](https://github.com/koralreeef/anypercent-cuecollection).</b>
-Thanks to Sleepy__Dan__ for feedback on this when learning the chapter for the first time.</b>
-Thank you yujene for contributing a strat.</b>
+Thanks for buhbai and koralreef for the inspiration for this with their guides. And special shoutout again to koralreef as I'm basically just copying the formatting of [his collection](https://github.com/koralreeef/anypercent-cuecollection).</br>
+Thanks to Sleepy__Dan__ for feedback on this when learning the chapter for the first time.</br>
+Thank you yujene for contributing a strat.</br>
 Thanks to everyone else for reading this.
 ## Updates
 YYYY-MM-DD: Release of this whenever it will be

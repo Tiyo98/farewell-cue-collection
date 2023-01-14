@@ -200,7 +200,7 @@ Also moonblocks move on a cycle so be aware of that if you set save states or us
   ![cue](https://media.discordapp.net/attachments/752203178715644024/903656309143011388/unknown.png)
   \
   Get onto the middle of the ground and do a medium jump in place. This should bring Madeline's head barely over the spinners but even being a bit low doesn't matter that much.
-  Throw the jelly, land, jump into the bubble and fast activate it. Then time the updash through the gap. FYI: You can hold grab all the way when inside the bubble.
+  Throw the jelly, land, jump into the bubble and fast activate it. Then time the updash through the gap. FYI: You can hold grab all the way when inside the bubble.</br>
   For the last dash either neutral drop the jelly or throw it and updash. If you throw it you have to pay attention of not being too far left as throwing a jelly pushes you into the direction you're not facing.
  </details>
  
