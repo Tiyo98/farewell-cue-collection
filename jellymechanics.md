@@ -23,7 +23,7 @@ This section will explain all relevant jelly mechanics for speedrunning Farewell
  <img src="https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/farewell/jellyholdjump.webp" width="384" height="216"/>
  <img src="https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/farewell/jellyholdup+jump.webp" width="384" height="216"/>
  \
- At the peak of your height you fall significantly less when holding jump. Combining that with pressing "up" you fall even slower. Be aware it only matters **at roughly the peak of your height**. It doesn't work after a certain amount of falling.</b>
+ At the peak of your height you fall significantly less when holding jump. Combining that with pressing "up" you fall even slower. Be aware it only matters **at roughly the peak of your height**. It doesn't work after a certain amount of falling.</br>
  Also a bunch of things give you auto jump so pressing or holding jump makes no difference. This includes but is not limited to springs and dashes besides downward angled ones.
  
 ----

@@ -363,7 +363,7 @@ Also moonblocks move on a cycle so be aware of that if you set save states or us
   \
   ![cue](https://media.discordapp.net/attachments/752203178715644024/933881863234256896/unknown.png)
   \
-  You can buffer the updash into right dash for the super at the beginning of the room.</b>
+  You can buffer the updash into right dash for the super at the beginning of the room.</br>
   After hitting the coin, if you dash high into the dreamblock you can dreamhyper out of that specific dreamblock. If you're low just jump out how you normally would.
   \
   For the end part, you want to upleft demo when you're under the last spinner
@@ -571,7 +571,7 @@ Also moonblocks move on a cycle so be aware of that if you set save states or us
   \
   ![cue](https://cdn.discordapp.com/attachments/752203178715644024/1022612237120184350/unknown.png)
   \
-  **Normal!!!** upright dash when between the blue and yellow block. A demo will send you too high after hitting the spring because you reach the spring later. Also holding grab will cause you to grab the pink block so refrain from holding grab here as well.</b>
+  **Normal!!!** upright dash when between the blue and yellow block. A demo will send you too high after hitting the spring because you reach the spring later. Also holding grab will cause you to grab the pink block so refrain from holding grab here as well.</br>
   See if skipping the pink block or not is easier for you. Should barely make a time difference.
  </details>
  
