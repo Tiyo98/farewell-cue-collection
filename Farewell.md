@@ -112,6 +112,17 @@ Also moonblocks move on a cycle so be aware of that if you set save states or us
  </details>
  
   <details>
+  <summary>farewell-b-00</summary>
+  
+  ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/b-00.webp)
+  \
+  ![cue](https://cdn.discordapp.com/attachments/752203178715644024/1064246311823622264/image.png)
+  \
+  The beginning of the room is kinda self explanatory. For the second fish I like to hold jump on the first one and downright in the middle of the bg tile. Then hold jump and right and updash when you're close to the spinners. Hold right and right dash when at peak height of the updash.</br>
+  **Important:** This strat only works on entry because it is fish cycle dependent. Yes, the fish' move slightly and that alters their hitbox as well. I don't know if this strat even works on console as fish cycles are slightly different compared to PC. Please let me know if this strat works if you are a console player.
+ </details>
+ 
+  <details>
   <summary>farewell-b-01</summary>
   
   ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/b-01.webp)
@@ -526,7 +537,12 @@ Also moonblocks move on a cycle so be aware of that if you set save states or us
   \
   ![cue](https://cdn.discordapp.com/attachments/752203178715644024/966313512311873596/unknown.png)
   \
-  If you did the entry correctly into this room you should be able to do a downright here at the beginning and then climbjump up to be able to wavedash and ultra off the blue block. Don't buffer the jump but don't get huge coyote as you can make it impossible to get a demo window as you need to be falling for that. Lining up Madeline's bottom hair pixel with the outsticking top part off the spinner is the cue I use for the demo. Fast fall immediately after the demo as the cycle is tight. If you entered the room too late the blue block disappeared. Very sad day but it's a hard cycle. 
+  If you did the entry correctly into this room you should be able to do a downright here at the beginning and then climbjump up to be able to wavedash and ultra off the blue block. Don't buffer the jump but don't get huge coyote as you can make it impossible to get a demo window as you need to be falling for that. Lining up Madeline's bottom hair pixel with the outsticking top part off the spinner is the cue I use for the demo.
+  \
+  ![cue](https://cdn.discordapp.com/attachments/752203178715644024/1064209797022502912/image.png)
+  \
+  Hiken uses a different cue: When the bottom pixel of Madeline's hairline is under the "Resume" text is the cue that he uses. If you use pause menu cues, make sure to disable "Mod Options" showing in-game as any additional option in the menu will change the position of the text. Of course this also applies to variants or assist or anything else that adds a menu option.</br>
+  Fast fall immediately after the demo as the cycle is tight. If you entered the room too late the blue block disappeared. Very sad day but it's a hard cycle. 
  
   ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/i-00b-safe.webp)
   \
@@ -665,6 +681,10 @@ Also moonblocks move on a cycle so be aware of that if you set save states or us
   ![cue](https://cdn.discordapp.com/attachments/752203178715644024/1063555809075789844/image.png)
   \
   Release directions after the fish bop and fast fall down. After dashing into the orb hold left. Buffer a fullheight wallkick while holding left and only press right after the jump input has come out. Right dash when you're really close to the electricity. 
+  \
+  ![cue](https://cdn.discordapp.com/attachments/752203178715644024/1064255468308025504/image.png)
+  \
+  For this cornerboost wait until the dash block has fully retracted.
  </details>
  
   <details>
