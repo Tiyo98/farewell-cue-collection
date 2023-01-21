@@ -15,7 +15,7 @@ This will show the cues for some minor or major strats I personally use in Farew
 \
 I assume the reader already knows what each tech is named and what they do. I will not explain them here. If you need further help, go to the [Celeste discord server](https://discord.com/invite/celeste) and ask in the #speedrun-help channel.
 ## Formatting
-This collection will be split up into different markdown files to avoid needing to load 50+ gifs at a time when checking this page. Each checkpoint will have its own table of contents and follow the format given below.
+This collection will be split up into the respective checkpoints with 4 preview gifs per checkpoint to avoid needing to load 50+ gifs at a time for every room when checking the page. Each checkpoint can be accessed with the table of contents found at the beginning of the chapter page and will follow the format given below.
 Attached below are some drawings of format of the guide, and you should read it as such. Shoutouts to koralreef for these.
 \
 ![1](https://cdn.discordapp.com/attachments/293555577991200770/775444116707606558/unknown.png)
