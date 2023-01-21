@@ -75,7 +75,7 @@ Also moonblocks move on a cycle so be aware of that if you set save states or us
   \
   ![cue](https://cdn.discordapp.com/attachments/752203178715644024/901118447621136404/unknown.png)
   \
-  Bhop and upright demo when you in the middle of the electricity if you only count the electricity starting from the bg tiles. Buffer the other upright dash.
+  Bhop and upright demo when you're in the middle of the electricity if you only count the electricity starting from the bg tiles. Buffer the other upright dash.
  </details>
  
   <details>
@@ -143,7 +143,7 @@ Also moonblocks move on a cycle so be aware of that if you set save states or us
   \
   ![cue](https://media.discordapp.net/attachments/752203178715644024/901166952007995462/unknown.png)
   \
-  Transition demohyper and do the downright in the middle of the lower part of the background tile. Exiting the dreamblock you want to do a small jump for the dreamhyper so you always get a low position in the next dreamblock. Buffer the downright out of that dreamhyper. Buffer demo and upright dash out of the dreamblock and do a short dreamhyper onto the fish. Immediately downright and the rest is pretty self explanatory. Not a lot of cues for this room sadly, but I hope the written explanation helps a bit.
+  Transition demohyper and do the downright in the middle of the lower part of the background tile. Exiting the dreamblock you want to do a small jump for the dreamhyper so you always get a low position in the next dreamblock. Buffer the downright out of that dreamhyper. Buffer demo and upright dash out of the dreamblock and dreamhyper onto the fish. Immediately downright and the rest is pretty self explanatory. Not a lot of cues for this room sadly, but I hope the written explanation helps a bit.
  </details>
   
   <details>
@@ -153,7 +153,7 @@ Also moonblocks move on a cycle so be aware of that if you set save states or us
   \
   ![cue](https://media.discordapp.net/attachments/752203178715644024/901164505709543434/unknown.png)
   \
-  Start the jump for the wallbounce here and dash early and buffer the dashes
+  Start the jump for the wallbounce at the 2 little cracks in the wall. Dash early and buffer the dashes
   \
   ![cue](https://cdn.discordapp.com/attachments/752203178715644024/901168976497901589/unknown.png)
   \
@@ -175,7 +175,7 @@ Also moonblocks move on a cycle so be aware of that if you set save states or us
   \
   ![cue](https://media.discordapp.net/attachments/752203178715644024/903657651915849759/unknown.png)
   \
-  Important for the upright into the jelly is to do it into the bottom left or bottom of it. If you do it into the middle left side you can be too high even if you fast fall all the way. Also this upright isn't fast if you jump late on the wavedash
+  Important for the upright into the jelly is to do it into the bottom left or bottom of it and hold downright after. If you do it into the middle left side you can be too high even if you fast fall all the way. Also this upright isn't fast, you can instead just jump late on the wavedash to get the same speed.
   \
   ![cue](https://cdn.discordapp.com/attachments/752203178715644024/903660365374697472/vlcsnap-2021-10-29-17h03m15s101.png)
   \
@@ -252,9 +252,13 @@ Also moonblocks move on a cycle so be aware of that if you set save states or us
   ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/e-04.webp)
   \
   ![cue](https://cdn.discordapp.com/attachments/752203178715644024/1063901531138695178/image.png)
+  \
+  Buffer the jump on the demohyper in the previous room. Hold jump for the whole strat even after the jelly grab. Buffer a downright after the transition and delay the grab for the jelly. Hold upright and the jump from the hyper and you should glide through the gap. 
+  \
   ![cue](https://cdn.discordapp.com/attachments/752203178715644024/1063903219467702354/Celeste_NIcDUx0NqR.png)
   \
-  Buffer the jump on the demohyper in the previous room. Hold jump for the whole strat even after the jelly grab. Buffer a downright after the transition and delay the grab for the jelly. Hold upright and the jump from the hyper and you should glide through the gap. Hold downright past the door. If the grab delay is awkward you can neutral demohyper. So demohyper without holding right. This loses quite a bit of time but you can hold grab with this.
+  Hold downright past the door. </br>
+  If the grab delay is awkward you can neutral demohyper. So demohyper without holding right. This loses quite a bit of time but you can hold grab with this.
   \
   No cue for the end part, but just a tip; because of jelly throw cooldown you can release grab immediately and the end strat just works as long as the jelly is high enough up.
  </details>
@@ -274,10 +278,12 @@ Also moonblocks move on a cycle so be aware of that if you set save states or us
   
   ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/e-07.webp)
   \
-  ![cue](https://media.discordapp.net/attachments/752203178715644024/909462817088880720/unknown.png)
-  ![cue](https://cdn.discordapp.com/attachments/752203178715644024/966096795279183972/unknown.png)
+  ![cue](https://cdn.discordapp.com/attachments/752203178715644024/1066197331306881054/image.png)
   \
   Even the beginning part is a setup for this room. Try to hit the left side of the spring, don't move and just press dash to get to the spring again. Wait until you start falling and then upright dash and hold right and jump and you will get a good angle to do the next part.
+  \
+  ![cue](https://media.discordapp.net/attachments/752203178715644024/909462817088880720/unknown.png)
+  ![cue](https://cdn.discordapp.com/attachments/752203178715644024/966096795279183972/unknown.png)
   \
   Updash when you reach the piece of floaty rubble. Delay the next 3 upright dashes. The last upright has to be a demo. Try doing that last one inbetween the bg tile and the spinners. 
  </details>
