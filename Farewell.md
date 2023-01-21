@@ -773,7 +773,7 @@ Also moonblocks move on a cycle so be aware of that if you set save states or us
   \
   ![cue](https://cdn.discordapp.com/attachments/752203178715644024/1063873340781121666/Celeste_u7Oj9rJllF.png)
   \
-  If you're on keyboard or for some reason use dpad feathers, a good cue to go downleft on the feather is right above the fish. You have to do it slightly later if cut it really close to the fish. Also if you want to go extra safe, later is better anyway but you don't have to move past the fish before moving downleft.
+  If you're on keyboard or for some reason use dpad feathers, a good cue to go downleft on the feather is right above the fish. You have to do it slightly later if you cut it really close to the fish. Also if you want to go extra safe, later is better anyway but you don't have to move past the fish before moving downleft.
   \
   Also on the fast fall before the upleft demo into the spring: Tap right once otherwise your position is slightly awkward and you won't be able to consistently hit the spring with an upleft demo.
 

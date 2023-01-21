@@ -25,6 +25,7 @@ Thanks for buhbai and koralreef for the inspiration for this with their guides. 
 Thanks to Sleepy__Dan__ for feedback on this when learning the chapter for the first time.</br>
 Thanks to GrosHiken for checking over this guide and contributing to some strats. </br>
 Thanks to yujene for checking over this guide and contributing strats and helping rephrasing a bunch of sentences for better clarity.</br>
+Thanks to Verdal for feedback regarding the clarity when explaining strats and pointing out some obvious typos.</br>
 Thanks to everyone else for reading this.
 ## Updates
 2023-01-21: Cue Collection Release
