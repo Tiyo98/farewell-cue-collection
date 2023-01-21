@@ -27,4 +27,4 @@ Thanks to GrosHiken for checking over this guide and contributing to some strats
 Thanks to yujene for checking over this guide and contributing strats and helping rephrasing a bunch of sentences for better clarity.</br>
 Thanks to everyone else for reading this.
 ## Updates
-YYYY-MM-DD: Release of this whenever it will be
+2023-01-21: Cue Collection Release

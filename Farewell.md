@@ -85,11 +85,11 @@ Also moonblocks move on a cycle so be aware of that if you set save states or us
   \
   ![cue](https://media.discordapp.net/attachments/752203178715644024/901106275293732894/unknown.png)
   \
-  Honestly awful strat and idk if I should recommend it, but you can back it up quite easily. Hyper bhop and start the downright dash at the hole in the bg tiles.
+  Honestly weird strat and idk if I should recommend it, but you can back it up quite easily. Hyper bhop and start the downright dash at the hole in the bg tiles.
   \
   ![cue](https://media.discordapp.net/attachments/752203178715644024/901106095496527932/unknown.png)
   \
-  Try to neutral climbjump up and hold right for the climbjump at the top of the third dash block. Try aiming for the top corner with that climbjump as shown above. Neutral climbjump off the last retreating dash block and diag demo so you reach the ceiling later and have more height. You can do a second upright demo for safety if you can't get over with a right dash consistently.
+  Try to neutral climbjump up the dash blocks and aim the third climbjump so you jump off the top corner of the second dashblock as shown above. Hold right after that last neutral climbjump to reach the retreating dash block. Neutral climbjump off it and diag demo so you reach the ceiling later and have more height. You can do a second upright demo for safety if you can't get over with just a right dash consistently.
  </details>
  
   <details>
@@ -312,7 +312,7 @@ Also moonblocks move on a cycle so be aware of that if you set save states or us
   \
   ![cue](https://media.discordapp.net/attachments/752203178715644024/933534009336664106/Celeste_KSvtIctHxA.png)
   \
-  Let the conveyer just fly you over DON'T climbjump, right dash when Madeline's head is in line with the hole in the background and buffer a fullheight climbjump and hold right to go over the spikes.
+  Let the conveyer just fly you over DON'T climbjump and DON'T hold jump, right dash when Madeline's head is in line with the hole in the background and buffer a fullheight climbjump and hold right to go over the spikes.
   \
   ![cue](https://media.discordapp.net/attachments/752203178715644024/933538323379667014/Celeste_568gARyUky.png)
   \
@@ -339,7 +339,7 @@ Also moonblocks move on a cycle so be aware of that if you set save states or us
   \
   ![cue](https://cdn.discordapp.com/attachments/752203178715644024/965992701755539486/unknown.png)
   \
-  For the ending of this room, go the bottom off the block and hold right, jump when the kevin block reaches the cue.
+  For the ending of this room, go the bottom off the block and hold right, jump when the kevin block reaches the cue. If you're a bit high on the kevin you might have to jump later.
  </details>
  
   <details>
@@ -475,12 +475,16 @@ Also moonblocks move on a cycle so be aware of that if you set save states or us
   <details>
   <summary>farewell-h-09</summary>
   
-  ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/h-09.webp)
+  ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/h-09-alt.webp)
   \
+  ![cue](https://cdn.discordapp.com/attachments/752203178715644024/1066160451177676930/image.png)
   ![cue](https://cdn.discordapp.com/attachments/752203178715644024/966094435098193970/unknown.png)
+  \
+  Wavedash into the room, hold jump and downright dash when you're past the ceiling like in the first screenshot. Buffer a left dash and hold downleft and it should roughly allign you with the right eye of the Kevin block. Can always just release left a bit if you don't allign with the cue consistently.
+  \
   ![cue](https://cdn.discordapp.com/attachments/752203178715644024/966094174719967242/unknown.png)
   \
-  Line up Madeline with the right eye of kevin and dash down when the kevin reaches the 2nd hole of that pair of background holes. Buffer 3 downdashes, a downright and a left dash to get the right timing for the kevin to fit through the breakable blocks.
+  Dash down when the Kevin reaches the 2nd hole of that pair of background holes. Buffer 3 downdashes, a downright and a left dash to get the right timing for the kevin to fit through the breakable blocks. Don't move after the last dash into the Kevin and climbjump and upleft to the coin.
  </details>
  
   <details>
