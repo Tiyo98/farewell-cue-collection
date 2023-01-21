@@ -480,11 +480,11 @@ Also moonblocks move on a cycle so be aware of that if you set save states or us
   ![cue](https://cdn.discordapp.com/attachments/752203178715644024/1066160451177676930/image.png)
   ![cue](https://cdn.discordapp.com/attachments/752203178715644024/966094435098193970/unknown.png)
   \
-  Wavedash into the room, hold jump and downright dash when you're past the ceiling like in the first screenshot. Buffer a left dash and hold downleft and it should roughly allign you with the right eye of the Kevin block. Can always just release left a bit if you don't allign with the cue consistently.
+  Wavedash into the room, hold jump and downright dash when you're past the ceiling like in the first screenshot. Buffer a left dash and hold downleft and it should roughly allign you with the right eye of the kevin block. Can always just release left a bit if you don't allign with the cue consistently.
   \
   ![cue](https://cdn.discordapp.com/attachments/752203178715644024/966094174719967242/unknown.png)
   \
-  Dash down when the Kevin reaches the 2nd hole of that pair of background holes. Buffer 3 downdashes, a downright and a left dash to get the right timing for the kevin to fit through the breakable blocks. Don't move after the last dash into the Kevin and climbjump and upleft to the coin.
+  Dash down when the kevin reaches the 2nd hole of that pair of background holes. Buffer 3 downdashes, a downright and a left dash to get the right timing for the kevin to fit through the breakable blocks. Don't move after the last dash into the kevin and climbjump and upleft to the coin.
  </details>
  
   <details>
