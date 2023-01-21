@@ -42,7 +42,7 @@ Also moonblocks move on a cycle so be aware of that if you set save states or us
    Do an updash and an upright to get to the moonblock. Land and buffer an updash and delay another updash. Buffer a left jump when you land again. Wallkick low of the moonblock while holding right and when you're in line with it, do a right dash and neutral super. The jump of the super should not be in coyote, so try to aim for middle or right side of the block.
    Do an updemo and drift slightly to the right before doing the right dash.
    \
-   An annoying part is the trigger you don't see, so I recommend practicing with the hitbox view of [Celeste TAS](https://gamebanana.com/tools/6715). For more setups I recommend the [video guide by fishmcmuffins](https://www.youtube.com/watch?v=al_3Wu27C4M).
+   An annoying part is the trigger you don't see, so I recommend learning the strat with the hitbox view and center cam of the [Celeste TAS mod](https://gamebanana.com/tools/6715) if you're on PC before eventually transitioning into doing the strat without it. For more setups I recommend the [video guide by fishmcmuffins](https://www.youtube.com/watch?v=al_3Wu27C4M).
 	
  </details>
 
