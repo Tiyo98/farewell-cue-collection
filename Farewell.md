@@ -743,7 +743,7 @@ Also moonblocks move on a cycle so be aware of that if you set save states or us
   \
   ![cue](https://cdn.discordapp.com/attachments/752203178715644024/1063866058471125032/Celeste_AISRRStc9l.png)
   \
-  Get close to the dotted line and throw the jelly and release right just to the left of the fish. Then fall down a bit and upright when the jelly is to the right of the fish.
+  Get close to the bottom of the dotted line and throw the jelly and release right just to the left of the fish. Then fall down a bit and upright when the jelly is to the right of the fish.
   \
   No picture for the end of that clip but just make sure to throw the jelly right before the electricity and fall a bit and then downleft into the fish. Also don't fishboost, just hold left until the next dash. Upright into the jelly and hold left before reaching the wall that vaporises the jelly.
   

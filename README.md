@@ -29,3 +29,4 @@ Thanks to Verdal for feedback regarding the clarity when explaining strats and p
 Thanks to everyone else for reading this.
 ## Updates
 2023-01-21: Cue Collection Release
+2023-06-04: Changed wording of the beginning of the strat in the final room
