@@ -1,5 +1,5 @@
 # Farewell Cue Collection
-![header](https://cdn.discordapp.com/attachments/752203178715644024/901051628013105212/20211022121702_1.jpg)
+![header](https://i.imgur.com/vcIpnDd.png)
 ## Read me first!
 - [Introduction](#introduction)
 - [Format of Guide](#formatting)
@@ -18,8 +18,8 @@ I assume the reader already knows what each tech is named and what they do. I wi
 This collection will be split up into the respective checkpoints with 4 preview gifs per checkpoint to avoid needing to load 50+ gifs at a time for every room when checking the page. Each checkpoint can be accessed with the table of contents found at the beginning of the chapter page and will follow the format given below.
 Attached below are some drawings of format of the guide, and you should read it as such. Shoutouts to koralreef for these.
 \
-![1](https://cdn.discordapp.com/attachments/293555577991200770/775444116707606558/unknown.png)
-![for now](https://cdn.discordapp.com/attachments/293555577991200770/775400802339913768/unknown.png)
+![1](https://i.imgur.com/EGo4BFm.png)
+![for now](https://i.imgur.com/zY6KOjo.png)
 ## Credits
 Thanks for buhbai and koralreef for the inspiration for this with their guides. And special shoutout again to koralreef as I'm basically just copying the formatting of [his collection](https://github.com/koralreeef/anypercent-cuecollection).</br>
 Thanks to Sleepy__Dan__ for feedback on this when learning the chapter for the first time.</br>
@@ -30,4 +30,4 @@ Thanks to everyone else for reading this.
 ## Updates
 2023-01-21: Cue Collection Release
 2023-06-04: Changed wording of the beginning of the strat in the final room
-2024-04-19: Updated Determination Images to be displayed correctly again.
+2024-04-19: Updated Determination images to be displayed correctly again
