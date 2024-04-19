@@ -30,3 +30,4 @@ Thanks to everyone else for reading this.
 ## Updates
 2023-01-21: Cue Collection Release
 2023-06-04: Changed wording of the beginning of the strat in the final room
+2024-04-19: Updated Determination Images to be displayed correctly again.

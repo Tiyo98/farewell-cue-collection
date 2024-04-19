@@ -428,12 +428,12 @@ Also moonblocks move on a cycle so be aware of that if you set save states or us
   
   ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/h-02.webp)
   \
-  ![cue](https://cdn.discordapp.com/attachments/752203178715644024/966079580005875712/unknown.png)
+  ![cue](https://i.imgur.com/6tWSYZ8.png)
   \
   Dash upright when in line with the first spinner on the right and buffer right dash.
   \
-  ![cue](https://cdn.discordapp.com/attachments/752203178715644024/966078461057851432/20220419224052_1.jpg)
-  ![cue](https://cdn.discordapp.com/attachments/752203178715644024/966078478510354432/20220419224143_1.jpg) 
+  ![cue](https://i.imgur.com/55NgeGa.png)
+  ![cue](https://i.imgur.com/DxX2WtC.png) 
   \
   Not really a cue but just showing the earliest and latest frame for the downright. Really weird but can be consistent with practice as it's a 3f window(4f technically but you don't land on the ground on the first frame). I personally try to be just above the first of the bottom spinners on the right but as it's really rough I put the whole frame window here.
  </details>
@@ -443,11 +443,11 @@ Also moonblocks move on a cycle so be aware of that if you set save states or us
   
   ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/h-03b.webp)
   \
-  ![cue](https://cdn.discordapp.com/attachments/752203178715644024/966083076159590470/unknown.png)
+  ![cue](https://i.imgur.com/B4tpize.png)
   \
   Upright when you're inside the bubbles and delay the 2nd upright.
   \
-  ![cue](https://cdn.discordapp.com/attachments/752203178715644024/966083242174320721/unknown.png)
+  ![cue](https://i.imgur.com/8ENtE2m.png)
   \
   Upright demo when under the spikes on the left side of the core block and demo at full height.
  </details>
@@ -457,7 +457,7 @@ Also moonblocks move on a cycle so be aware of that if you set save states or us
   
   ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/h-06.webp)
   \
-  ![cue](https://cdn.discordapp.com/attachments/752203178715644024/966084918130114600/unknown.png)
+  ![cue](https://i.imgur.com/iCtCWN2.png)
   \
   Full height hyper when you reach the last small rubble and release jump in the transition.
  </details>
@@ -467,13 +467,13 @@ Also moonblocks move on a cycle so be aware of that if you set save states or us
   
   ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/h-06b.webp)
   \
-  ![cue](https://media.discordapp.net/attachments/735318537047900291/917102849987596298/unknown.png)
+  ![cue](https://i.imgur.com/aFopuX4.png)
   \
   Really hard room, I recommend practicing this room a lot and having a good death cycle for this ([example death strat](https://clips.twitch.tv/ArtsySpikyEmuPastaThat-1ti1YP0oBIVWiw-E)).
   \
   Full height transition wallbounce and buffer 2 updashes when you're in line with the sticking out bg tile above you. Don't move until you hit the ice ball.
   \
-  ![cue](https://cdn.discordapp.com/attachments/735318537047900291/917102850184716348/unknown.png)
+  ![cue](https://i.imgur.com/krlXq0R.png)
   \
   Upright dash when under the sticking out part off the bg tile and delay the right dash until max height. Hold neutral for the iceball super and hold jump. Then you can do a left dash to get another ice ball super. Hold jump on that one as well and dash up into the left coin. Wait until max height off the updash and then do a right dash and release directions and also hold jump for a neutral ice ball super. Downright when inside the coin within the fireballs and the rest should line up.
  </details>
@@ -483,12 +483,12 @@ Also moonblocks move on a cycle so be aware of that if you set save states or us
   
   ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/h-09-alt.webp)
   \
-  ![cue](https://cdn.discordapp.com/attachments/752203178715644024/1066160451177676930/image.png)
-  ![cue](https://cdn.discordapp.com/attachments/752203178715644024/966094435098193970/unknown.png)
+  ![cue](https://i.imgur.com/WgSK0P8.png)
+  ![cue](https://i.imgur.com/qn2nKTt.png)
   \
   Wavedash into the room, hold jump and downright dash when you're past the ceiling like in the first screenshot. Buffer a left dash and hold downleft and it should roughly allign you with the right eye of the kevin block. Can always just release left a bit if you don't allign with the cue consistently.
   \
-  ![cue](https://cdn.discordapp.com/attachments/752203178715644024/966094174719967242/unknown.png)
+  ![cue](https://i.imgur.com/ltIrjF0.png)
   \
   Dash down when the kevin reaches the 2nd hole of that pair of background holes. Buffer 3 downdashes, a downright and a left dash to get the right timing for the kevin to fit through the breakable blocks. Don't move after the last dash into the kevin and climbjump and upleft to the coin.
  </details>
@@ -498,8 +498,8 @@ Also moonblocks move on a cycle so be aware of that if you set save states or us
   
   ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/h-10-2.webp)
   \
-  ![cue](https://cdn.discordapp.com/attachments/407934733595705344/912510548661387294/unknown.png)
-  ![cue](https://cdn.discordapp.com/attachments/407934733595705344/912510601077612605/unknown.png)
+  ![cue](https://i.imgur.com/4jX0By9.png)
+  ![cue](https://i.imgur.com/t2bTPOp.png)
   \
   First you have to know you can be too fast with your feather movement so slow down a bit. I like to just not optimize the turns at the beginning.
   \
@@ -507,7 +507,7 @@ Also moonblocks move on a cycle so be aware of that if you set save states or us
   \
   ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/h-10-1.webp)
   \
-  ![cue](https://cdn.discordapp.com/attachments/752203178715644024/966111443302907944/unknown.png)
+  ![cue](https://i.imgur.com/NclhLZO.png)
   \
   Yes I put the beginning afterwards because it's less important. Downright in the small dent of the bg tiles and jump and cornerboost after transition was the most consistent for me.
  </details>
