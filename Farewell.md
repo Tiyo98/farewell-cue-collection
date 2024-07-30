@@ -26,7 +26,7 @@ Also moonblocks move on a cycle so be aware of that if you set save states or us
   \
   ![cue](https://i.imgur.com/x3lgAuZ.png)
   \
-  Pausebuffer a talk out of a pause and then a fullheight jump out of the next pause. You can't interact with the grave in dash state so you have to wait until it's over or don't dash. Important that you have to release talk before the jump. It's highly recommended to use a pause+talk button for this. You can bind talk to your normal pause button without any currently known issues, but be aware that you have to release it before the last unpause is over.
+  Pausebuffer a talk out of a pause and then a fullheight jump out of the next pause. You can't interact with the grave in dash state so you have to wait until it's over or don't dash. It's highly recommended to use a pause+talk button for this. You can bind talk to your normal pause button without any currently known issues.
   \
   There are 2 options now. The recommended one is that you can count how many bounces the white arrow in the bottom right of text box does. Skip the cutscene after 11 bounces. Or alternatively wait until Madeline is off screen and look at the timer and wait 15 seconds before skipping the cutscene.
  </details>
@@ -59,7 +59,7 @@ Also moonblocks move on a cycle so be aware of that if you set save states or us
   
   ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/a-01.webp)
   \
-  ![cue](https://cdn.discordapp.com/attachments/752203178715644024/1063943720329822258/Celeste_o66bogpcZl.png)
+  ![cue](https://i.imgur.com/yLIFpaW.png)
   \
   Wavedash with a low jump and start buffering dashes at the cue. Demohyper and downright into the transition. If you're too high to do a midair demohyper, just drop a bit or right dash and demo/downright into the transition.
  </details>
@@ -69,11 +69,11 @@ Also moonblocks move on a cycle so be aware of that if you set save states or us
   
   ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/a-02.webp)
   \
-  ![cue](https://media.discordapp.net/attachments/752203178715644024/901118310664515654/unknown.png)
+  ![cue](https://i.imgur.com/qMfUCEX.png)
   \
   Transition hyper and release jump when you reach the pink crystal.
   \
-  ![cue](https://cdn.discordapp.com/attachments/752203178715644024/901118447621136404/unknown.png)
+  ![cue](https://i.imgur.com/Zb3T8yZ.png)
   \
   Bhop and upright demo when you're in the middle of the electricity if you only count the electricity starting from the bg tiles. Buffer the other upright dash.
  </details>
@@ -83,11 +83,11 @@ Also moonblocks move on a cycle so be aware of that if you set save states or us
   
   ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/a-03.webp)
   \
-  ![cue](https://media.discordapp.net/attachments/752203178715644024/901106275293732894/unknown.png)
+  ![cue](https://i.imgur.com/COS6Mhu.png)
   \
   Honestly weird strat and idk if I should recommend it, but you can back it up quite easily. Hyper bhop and start the downright dash at the hole in the bg tiles.
   \
-  ![cue](https://media.discordapp.net/attachments/752203178715644024/901106095496527932/unknown.png)
+  ![cue](https://i.imgur.com/v1h1FB8.png)
   \
   Try to neutral climbjump up the dash blocks and aim the third climbjump so you jump off the top corner of the second dashblock as shown above. Hold right after that last neutral climbjump to reach the retreating dash block. Neutral climbjump off it and diag demo so you reach the ceiling later and have more height. You can do a second upright demo for safety if you can't get over with just a right dash consistently.
  </details>
@@ -97,16 +97,16 @@ Also moonblocks move on a cycle so be aware of that if you set save states or us
   
   ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/a-04.webp)
   \
-  ![cue](https://media.discordapp.net/attachments/752203178715644024/901131255318458399/unknown.png)
+  ![cue](https://i.imgur.com/N8MO5jA.png)
   \
   Get a low height cornerboost in the previous room and buffer the dash for the wavedash out of transition. Jump late on the wavedash so you get a lot of coyote. Buffer all 3 dashes(right, upright demo, downright) when you reach the corner. 
   \
-  ![cue](https://media.discordapp.net/attachments/752203178715644024/901131378077352026/unknown.png)
+  ![cue](https://i.imgur.com/N9iCVTS.png)
   \
   Right dash and buffer the next one when you're inbetween the background tile and the pillar above you.
   \
-  ![cue](https://media.discordapp.net/attachments/752203178715644024/901116908114436107/unknown.png)
-  ![cue](https://media.discordapp.net/attachments/752203178715644024/901117046153158726/unknown.png)
+  ![cue](https://i.imgur.com/XYxbWUO.png)
+  ![cue](https://i.imgur.com/YbshuN8.png)
   \
   When you're in between the 2 green tiles start the upright dash and right dash when you reach the gap. If you landed on the left side of the spring block, cut the right dash and do another upright dash.
  </details>
@@ -116,7 +116,7 @@ Also moonblocks move on a cycle so be aware of that if you set save states or us
   
   ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/b-00.webp)
   \
-  ![cue](https://cdn.discordapp.com/attachments/752203178715644024/1064246311823622264/image.png)
+  ![cue](https://i.imgur.com/vLKNEtr.png)
   \
   The beginning of the room is kinda self explanatory. For the second fish I like to hold jump on the first one and downright in the middle of the bg tile. Then hold jump and right and updash when you're close to the spinners. Hold right and right dash when at peak height of the updash.</br>
   **Important:** This strat only works on entry because it is fish cycle dependent. Yes, the fish' move slightly and that alters their hitbox as well. I don't know if this strat even works on console as fish cycles are slightly different compared to PC. Please let me know if this strat works if you are a console player.
@@ -127,11 +127,11 @@ Also moonblocks move on a cycle so be aware of that if you set save states or us
   
   ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/b-01.webp)
   \
-  ![cue](https://media.discordapp.net/attachments/752203178715644024/909441271469330492/unknown.png)
+  ![cue](https://i.imgur.com/j1Tkpdw.png)
   \
   In the previous room start the jump for the super when you reach the middle of this coral arc.
   \
-  ![cue](https://media.discordapp.net/attachments/752203178715644024/909443177524633600/unknown.png)
+  ![cue](https://i.imgur.com/sLnLOJF.png)
   \
   Downright and release right when you're above the spinner and then demo to the fish.
  </details>
@@ -141,7 +141,7 @@ Also moonblocks move on a cycle so be aware of that if you set save states or us
   
   ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/b-03.webp)
   \
-  ![cue](https://media.discordapp.net/attachments/752203178715644024/901166952007995462/unknown.png)
+  ![cue](https://i.imgur.com/dq3pYGn.png)
   \
   Transition demohyper and do the downright in the middle of the lower part of the background tile. Exiting the dreamblock you want to do a small jump for the dreamhyper so you always get a low position in the next dreamblock. Buffer the downright out of that dreamhyper. Buffer demo and upright dash out of the dreamblock and dreamhyper onto the fish. Immediately downright and the rest is pretty self explanatory. Not a lot of cues for this room sadly, but I hope the written explanation helps a bit.
  </details>
@@ -151,11 +151,11 @@ Also moonblocks move on a cycle so be aware of that if you set save states or us
   
   ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/b-07.webp)
   \
-  ![cue](https://media.discordapp.net/attachments/752203178715644024/901164505709543434/unknown.png)
+  ![cue](https://i.imgur.com/nYmGqr7.png)
   \
   Start the jump for the wallbounce at the 2 little cracks in the wall. Dash early and buffer the dashes
   \
-  ![cue](https://cdn.discordapp.com/attachments/752203178715644024/901168976497901589/unknown.png)
+  ![cue](https://i.imgur.com/A2Dl9Bd.png)
   \
   I tried to find something to make this not feel like RNG, but sometimes depending on positioning you can't buffer the left demo. Either take the gamble or just slowfall a bit and make sure to not buffer.
  </details>
