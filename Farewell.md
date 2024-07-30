@@ -316,11 +316,11 @@ Also moonblocks move on a cycle so be aware of that if you set save states or us
   
   ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/f-05.webp)
   \
-  ![cue](https://media.discordapp.net/attachments/752203178715644024/933534009336664106/Celeste_KSvtIctHxA.png)
+  ![cue](https://i.imgur.com/yKlarMQ.png)
   \
   Let the conveyer just fly you over DON'T climbjump and DON'T hold jump, right dash when Madeline's head is in line with the hole in the background and buffer a fullheight climbjump and hold right to go over the spikes.
   \
-  ![cue](https://media.discordapp.net/attachments/752203178715644024/933538323379667014/Celeste_568gARyUky.png)
+  ![cue](https://i.imgur.com/n3LA4dQ.png)
   \
   Full height climbjump when you reach the hole in the background tile to save a few frames.
   \
@@ -332,18 +332,18 @@ Also moonblocks move on a cycle so be aware of that if you set save states or us
   
   ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/f-06-1.webp)
   \
-  ![cue](https://media.discordapp.net/attachments/752203178715644024/933545737550176298/Celeste_DuDC2vwxoV.png)
+  ![cue](https://i.imgur.com/5Rw5CF5.png)
   \
   Binoclip is a funny strat that is not too difficult after practicing it a bit but definitely weird at first. First you want to make sure to interact with the bino from the left so you face right. To do that consistently, hold jump on the demohyper and downright dash when you're in the middle of the first part of that green background tile and buffer a downdash.
   \
-  ![cue](https://cdn.discordapp.com/attachments/752203178715644024/965989776274649129/unknown.png)
+  ![cue](https://i.imgur.com/IrcUiSJ.png)
   You then want to move the bino until the double spinners on the bottom disappear.
   \
   Exit the bino and the moment the white arrows on the side of the screen that indicate you can move the camera start disappearing you want to do an extended neutral super. So dash without holding a direction and jump a bit later. Getting the extention has no clear feedback so you just have to pray and rely on muscle memory.
   \
   ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/f-06-2.webp)
   \
-  ![cue](https://cdn.discordapp.com/attachments/752203178715644024/965992701755539486/unknown.png)
+  ![cue](https://i.imgur.com/wlbphdz.png)
   \
   For the ending of this room, go the bottom off the block and hold right, jump when the kevin block reaches the cue. If you're a bit high on the kevin you might have to jump later.
  </details>
@@ -353,7 +353,7 @@ Also moonblocks move on a cycle so be aware of that if you set save states or us
   
   ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/f-07.webp)
   \
-  ![cue](https://cdn.discordapp.com/attachments/752203178715644024/966055468390809640/unknown.png)
+  ![cue](https://i.imgur.com/VwHoLfl.png)
   \
   Can be an annoying room because of the downright and feel impossible but if you wait until the block has reached the very end of the track and you are up roughly 2/3 or 3/4 of the block it works. Semi decent cue for that is if Madeline's hand is horizontally alligned with the green part of the block. Then jump and buffer the downright dash out of the crystal freeze frames. 
  </details>
@@ -363,12 +363,12 @@ Also moonblocks move on a cycle so be aware of that if you set save states or us
   
   ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/f-08.webp)
   \
-  ![cue](https://cdn.discordapp.com/attachments/752203178715644024/966057441592766494/unknown.png)
+  ![cue](https://i.imgur.com/AA5VVqk.png)
   \
   Important for the entry is that you hyper from not too far left, as long as you're past the first weird coral bg tile you can full height hyper and release jump inside the transition.
   \
-  ![cue](https://cdn.discordapp.com/attachments/752203178715644024/966059169042022521/unknown.png)
-  ![cue](https://cdn.discordapp.com/attachments/752203178715644024/966059335614619738/unknown.png)
+  ![cue](https://i.imgur.com/wEWAXb9.png)
+  ![cue](https://i.imgur.com/x1nVPIk.png)
   \
   Getting under can be tricky but just look for these 2 visually different hand animations for the grab and you should be fine.
  </details>
@@ -378,7 +378,7 @@ Also moonblocks move on a cycle so be aware of that if you set save states or us
   
   ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/g-03.webp)
   \
-  ![cue](https://media.discordapp.net/attachments/752203178715644024/933881863234256896/unknown.png)
+  ![cue](https://i.imgur.com/sOD7HgH.png)
   \
   You can buffer the updash into right dash for the super at the beginning of the room.</br>
   After hitting the coin, if you dash high into the dreamblock you can dreamhyper out of that specific dreamblock. If you're low just jump out how you normally would.
@@ -391,16 +391,16 @@ Also moonblocks move on a cycle so be aware of that if you set save states or us
   
   ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/g-04.webp)
   \
-  ![cue](https://media.discordapp.net/attachments/752203178715644024/933907602969092146/unknown.png)
+  ![cue](https://i.imgur.com/Wshkwug.png)
   \
   Long room that can be made decently consistent. Start an extended super or hyper when the moving block reaches the third spinner pillar. Super is easier than hyper but it doesn't matter.
   \
-  ![cue](https://media.discordapp.net/attachments/752203178715644024/933909670446387260/unknown.png)
-  ![cue](https://media.discordapp.net/attachments/752203178715644024/933910227252838440/unknown.png)
+  ![cue](https://i.imgur.com/nePuZWF.png)
+  ![cue](https://i.imgur.com/R2xVDff.png)
   \
   Do a fullheight jump when you're between the two spinners and upright when you're past the background pillar and nearly touch the spinner below you.
   \
-  ![cue](https://media.discordapp.net/attachments/752203178715644024/933912477618561054/unknown.png)
+  ![cue](https://i.imgur.com/955yacd.png)
   \
   Hit the spring low and hold downright to fast fall and buffer a climbjump. Upright dash when you're past the bottom spinner and uprgiht demo when you're close to the right wall with spinners. The jump timing for the cornerkick will feel weird as you slide under the wall but just make sure to input the jump slightly later than you think.
  </details>
@@ -410,7 +410,7 @@ Also moonblocks move on a cycle so be aware of that if you set save states or us
   
   ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/g-05.webp)
   \
-  ![cue](https://cdn.discordapp.com/attachments/752203178715644024/966066567471312896/unknown.png)
+  ![cue](https://i.imgur.com/mA9Ursb.png)
   \
   Hold jump from the hyper into the room and buffer the dashes when you reach the stalactite in the background.
  </details>
