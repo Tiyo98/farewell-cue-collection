@@ -24,7 +24,7 @@ Also moonblocks move on a cycle so be aware of that if you set save states or us
   
   ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/intro-01-future.webp)
   \
-  ![cue](https://cdn.discordapp.com/attachments/752203178715644024/992144265746599986/Celeste_splGP8XymF.png)
+  ![cue](https://i.imgur.com/x3lgAuZ.png)
   \
   Pausebuffer a talk out of a pause and then a fullheight jump out of the next pause. You can't interact with the grave in dash state so you have to wait until it's over or don't dash. Important that you have to release talk before the jump. It's highly recommended to use a pause+talk button for this. You can bind talk to your normal pause button without any currently known issues, but be aware that you have to release it before the last unpause is over.
   \
@@ -36,8 +36,8 @@ Also moonblocks move on a cycle so be aware of that if you set save states or us
    
    ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/intro-03-space.webp)
    \
-   ![cue](https://media.discordapp.net/attachments/752203178715644024/901170744929701909/unknown.png)
-   ![cue](https://cdn.discordapp.com/attachments/752203178715644024/901074948133642341/unknown.png)
+   ![cue](https://i.imgur.com/BPTVouM.png)
+   ![cue](https://i.imgur.com/PhOzZex.png)
    \
    Do an updash and an upright to get to the moonblock. Land and buffer an updash and delay another updash. Buffer a left jump when you land again. Wallkick low of the moonblock while holding right and when you're in line with it, do a right dash and neutral super. The jump of the super should not be in coyote, so try to aim for middle or right side of the block.
    Do an updemo and drift slightly to the right before doing the right dash.
