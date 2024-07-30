@@ -1,5 +1,5 @@
 # Farewell DTS
-![header](https://cdn.discordapp.com/attachments/752203178715644024/901051628013105212/20211022121702_1.jpg)
+![header](https://i.imgur.com/vcIpnDd.png)
 **Important note:** This is for Farewell with the Dash Trigger Skip or short DTS which allows you to play Farewell up to Stubborness with 2 dashes. Cues for 1 dash Farewell are not planned as of yet, but some strats are similar and from [Stubbornness](#stubbornness) onwards it's the same as 1 dash.
 \
 Jelly mechanics are kinda weird at first so I recommend you give [Jelly Mechanics](https://github.com/Tiyo98/farewell-cue-collection/blob/main/jellymechanics.md). I do explain some important ones again but it's highly recommend to read it first regardless.
@@ -173,11 +173,11 @@ Also moonblocks move on a cycle so be aware of that if you set save states or us
   
   ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/c-alt-00.webp)
   \
-  ![cue](https://media.discordapp.net/attachments/752203178715644024/903657651915849759/unknown.png)
+  ![cue](https://i.imgur.com/TNY1XKQ.png)
   \
   Important for the upright into the jelly is to do it into the bottom left or bottom of it and hold downright after. If you do it into the middle left side you can be too high even if you fast fall all the way. Also this upright isn't fast, you can instead just jump late on the wavedash to get the same speed.
   \
-  ![cue](https://cdn.discordapp.com/attachments/752203178715644024/903660365374697472/vlcsnap-2021-10-29-17h03m15s101.png)
+  ![cue](https://i.imgur.com/MBL0KG2.png)
   \
   Not really a cue, but to guarantee a clean landing, throw the jelly pretty late before the jelly regrab.
  </details>
@@ -187,9 +187,9 @@ Also moonblocks move on a cycle so be aware of that if you set save states or us
   
   ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/c-alt-01.webp)
   \
-  ![cue](https://media.discordapp.net/attachments/752203178715644024/903661542275436544/unknown.png)
+  ![cue](https://i.imgur.com/lf2W7B3.png)
   \
-  Downright dash when you're over the hole in the background
+  For the final downright. Dash when you're over the hole in the background.
  </details>
  
   <details>
@@ -197,7 +197,7 @@ Also moonblocks move on a cycle so be aware of that if you set save states or us
   
   ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/d-00.webp)
   \
-  ![cue](https://media.discordapp.net/attachments/752203178715644024/909447931034234920/unknown.png)
+  ![cue](https://i.imgur.com/sEOnUQY.png)
   \
   Jump on the right side of the moonblock and updash when you're past it. If you hit that moonblock with a jump or dash bail out and do a different strat. Delay left dash until you're max height and then buffer the next 4 dashes. For the last dash space it out to gain more height.
  </details>
@@ -207,8 +207,8 @@ Also moonblocks move on a cycle so be aware of that if you set save states or us
   
   ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/d-05(slow).webp)
   \
-  ![cue](https://media.discordapp.net/attachments/752203178715644024/903663077411684352/unknown.png)
-  ![cue](https://media.discordapp.net/attachments/752203178715644024/903656309143011388/unknown.png)
+  ![cue](https://i.imgur.com/J4sBblU.png)
+  ![cue](https://i.imgur.com/rWz7XGE.png)
   \
   Get onto the middle of the ground and do a medium jump in place. This should bring Madeline's head barely over the spinners but even being a bit low doesn't matter that much.
   Throw the jelly, land, jump into the bubble and fast activate it. Then time the updash through the gap. FYI: You can hold grab all the way when inside the bubble.</br>
@@ -220,7 +220,7 @@ Also moonblocks move on a cycle so be aware of that if you set save states or us
   
   ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/d-05(fast).webp)
   \
-  ![cue](https://media.discordapp.net/attachments/752203178715644024/903654973970186240/unknown.png)
+  ![cue](https://i.imgur.com/WOlAN2w.png)
   \
   Wallkick of the left wall after the transition and release jump when you reach the end of the wooden platform or the bg tile above the red line on the pic. You can practically choose your visual cue. Do a small jump and throw the jelly when close to the spinners. Buffer updash, downleft and then fast activate the bubble. You can also dash left and slow activate the bubble if you prefer that.
  </details>
@@ -238,11 +238,11 @@ Also moonblocks move on a cycle so be aware of that if you set save states or us
   
   ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/e-03.webp)
   \
-  ![cue](https://media.discordapp.net/attachments/752203178715644024/909452343278465115/unknown.png)
+  ![cue](https://i.imgur.com/TTtVOOV.png)
   \
   Low transition hyper and buffer upright->right dash when you reach the middle of the hole in the background.
   \
-  ![cue](https://media.discordapp.net/attachments/752203178715644024/909452490276241478/unknown.png)
+  ![cue](https://i.imgur.com/V2LVi3c.png)
   When you're past the cue do an upright and delay a right demo for the demohyper.
  </details>
   
@@ -251,11 +251,11 @@ Also moonblocks move on a cycle so be aware of that if you set save states or us
   
   ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/e-04.webp)
   \
-  ![cue](https://cdn.discordapp.com/attachments/752203178715644024/1063901531138695178/image.png)
+  ![cue](https://i.imgur.com/rY2z5gT.png)
   \
   Buffer the jump on the demohyper in the previous room. Hold jump for the whole strat even after the jelly grab. Buffer a downright after the transition and delay the grab for the jelly. Hold upright and the jump from the hyper and you should glide through the gap. 
   \
-  ![cue](https://cdn.discordapp.com/attachments/752203178715644024/1063903219467702354/Celeste_NIcDUx0NqR.png)
+  ![cue](https://i.imgur.com/4E880JN.png)
   \
   Hold downright past the door. </br>
   If the grab delay is awkward you can neutral demohyper. So demohyper without holding right. This loses quite a bit of time but you can hold grab with this.
@@ -268,7 +268,7 @@ Also moonblocks move on a cycle so be aware of that if you set save states or us
   
   ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/e-05.webp)
   \
-  ![cue](https://media.discordapp.net/attachments/1041087674162884619/1041087856388620288/image.png)
+  ![cue](https://i.imgur.com/RNuXRdl.png)
   \
   Grounded ultra into the room so you have to adjust less horizontally. Then hit the block from the side and just slowfall and hold left when reaching this narrow part of the bg tile until you hit the coin
  </details>
@@ -278,12 +278,12 @@ Also moonblocks move on a cycle so be aware of that if you set save states or us
   
   ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/e-07.webp)
   \
-  ![cue](https://cdn.discordapp.com/attachments/752203178715644024/1066197331306881054/image.png)
+  ![cue](https://i.imgur.com/TxltaVm.png)
   \
   Even the beginning part is a setup for this room. Try to hit the left side of the spring, don't move and just press dash to get to the spring again. Wait until you start falling and then upright dash and hold right and jump and you will get a good angle to do the next part.
   \
-  ![cue](https://media.discordapp.net/attachments/752203178715644024/909462817088880720/unknown.png)
-  ![cue](https://cdn.discordapp.com/attachments/752203178715644024/966096795279183972/unknown.png)
+  ![cue](https://i.imgur.com/4k0eQtF.png)
+  ![cue](https://i.imgur.com/3ySHU22.png)
   \
   Updash when you reach the piece of floaty rubble. Delay the next 3 upright dashes. The last upright has to be a demo. Try doing that last one inbetween the bg tile and the spinners. 
  </details>
@@ -293,12 +293,12 @@ Also moonblocks move on a cycle so be aware of that if you set save states or us
   
   ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/e-08.webp)
   \
-  ![cue](https://media.discordapp.net/attachments/752203178715644024/909464588385402890/unknown.png)
-  ![cue](https://media.discordapp.net/attachments/752203178715644024/920794354761748560/unknown.png)
+  ![cue](https://i.imgur.com/EEudLNy.png)
+  ![cue](https://i.imgur.com/MhJbiqK.png)
   \
   Throw the jelly when you're above the crystal and updash. Fall down and slightly to the left so you're exactly at the corner in the bg tile as shown on the pic. Dash downright through the crystal to keep both dashes and grab the block. When it starts moving you want to release grab and do 3 right dashes and 1 updash. Drift to the left, grab the jelly and then do a small jump of the block.
   \
-  ![cue](https://media.discordapp.net/attachments/752203178715644024/909465099419418664/unknown.png)
+  ![cue](https://i.imgur.com/DAUOLBb.png)
   \
   Hit the spring on its top. Hold up to slow fall with the jelly. Upright when you're past or in line with the right side of the bg tile and release directions when you reach the crystal.
  </details>  
