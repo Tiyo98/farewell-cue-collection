@@ -531,11 +531,11 @@ Also moonblocks move on a cycle so be aware of that if you set save states or us
   
   ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/i-00.webp)
   \
-  ![cue](https://cdn.discordapp.com/attachments/752203178715644024/966306194354487336/unknown.png)
+  ![cue](https://i.imgur.com/hVtTCkC.png)
   \
   Upwards transition add a dash cooldown to Madeline so I skip the cutscene a bit later so I can buffer an input afterwards without getting owned. I do that when Madeline's feet reach the platform on the left.
   \
-  ![cue](https://cdn.discordapp.com/attachments/752203178715644024/966309555799736320/unknown.png)
+  ![cue](https://i.imgur.com/FPUnNyH.png)
   \
   I do 2 downrights into the corner to setup the cycle, then you can either wait a bit and jump to not get a wavedash or just climbjump immediately after to be safe. Wavedash and try to jump late so you have more speed on the ultra. Downright over the blue block and make sure to not buffer the jump. Upright close to the pink block and either wait a bit and then start a hyper with a slight extension or you can squeeze out another downdash. The important part here is that you enter the next room when the green block in this room appears.
  </details>
@@ -545,11 +545,11 @@ Also moonblocks move on a cycle so be aware of that if you set save states or us
   
   ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/i-00b-demo.webp)
   \
-  ![cue](https://cdn.discordapp.com/attachments/752203178715644024/966313512311873596/unknown.png)
+  ![cue](https://i.imgur.com/IdJXs9Z.png)
   \
   If you did the entry correctly into this room you should be able to do a downright here at the beginning and then climbjump up to be able to wavedash and ultra off the blue block. Don't buffer the jump but don't get huge coyote as you can make it impossible to get a demo window as you need to be falling for that. Lining up Madeline's bottom hair pixel with the outsticking top part off the spinner is the cue I use for the demo.
   \
-  ![cue](https://cdn.discordapp.com/attachments/752203178715644024/1064209797022502912/image.png)
+  ![cue](https://i.imgur.com/hg2mw66.png)
   \
   Hiken uses a different cue: When the bottom pixel of Madeline's hairline is under the "Resume" text is the cue that he uses. If you use pause menu cues, make sure to disable "Mod Options" showing in-game as any additional option in the menu will change the position of the text. Of course this also applies to variants or assist or anything else that adds a menu option.</br>
   Fast fall immediately after the demo as the cycle is tight. If you entered the room too late the blue block disappeared. Very sad day but it's a hard cycle. 
@@ -564,7 +564,7 @@ Also moonblocks move on a cycle so be aware of that if you set save states or us
   
   ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/i-01.webp)
   \
-  ![cue](https://cdn.discordapp.com/attachments/752203178715644024/966317271276466176/unknown.png)
+  ![cue](https://i.imgur.com/jbDWHMm.png)
   \
   Doing 8 downdashes lines up the dash to the spring and then going through the pink dash block. If you don't wanna count or miss the buffer the beat in between the cycle is a good cue. [Here the room video with sound](https://youtu.be/qLc4kBs0lek) to easier notice it. Exiting the room when the blue blocks appear and/or 3 downdashes line it up decently well to hyper out.
  </details>
@@ -574,7 +574,7 @@ Also moonblocks move on a cycle so be aware of that if you set save states or us
   
   ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/i-02.webp)
   \
-  ![cue](https://cdn.discordapp.com/attachments/752203178715644024/966331420282855454/unknown.png)
+  ![cue](https://i.imgur.com/wZo7gWY.png)
   \
   Like previously mentioned, hyper into the room and wavedash off the lower ground. Upright when inside the edge of the blue block left of the gap and buffer jump. You can do the upright later but I personally was too fast at the very end if I did that. Also I personally try to not do a fullheight jump. Upright through the block and buffer another jump. Depending on when you upright through the crystal you can hold right. If you upright too late you have to release right for a bit and adjust. Not much else to say about this room except that you wanna hold grab at the end in case you have to climbjump.
  </details>
@@ -584,8 +584,8 @@ Also moonblocks move on a cycle so be aware of that if you set save states or us
   
   ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/i-04.webp)
   \
-  ![cue](https://cdn.discordapp.com/attachments/752203178715644024/1022604668024651817/unknown.png)
-  ![cue](https://cdn.discordapp.com/attachments/752203178715644024/1022604874132762685/unknown.png)
+  ![cue](https://i.imgur.com/APRWz5h.png)
+  ![cue](https://i.imgur.com/sLfCdih.png)
   \
   Have to get a clean room before and see how, and if, it even works for your strat but it definitely works with the common high level strat which enters the room right before the pink block disappears. Updash into the pink block and fast fall into the bubble. Then fast bubble everything and downright dash and hold downright at the edge of the blue block. You can dash right into the third bubble of the room which can make buffering easier, but you should experiment yourself.
  </details>
@@ -595,7 +595,7 @@ Also moonblocks move on a cycle so be aware of that if you set save states or us
   
   ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/i-05.webp)
   \
-  ![cue](https://cdn.discordapp.com/attachments/752203178715644024/1022612237120184350/unknown.png)
+  ![cue](https://i.imgur.com/9vUyk7S.png)
   \
   **Normal!!!** upright dash when between the blue and yellow block. A demo will send you too high after hitting the spring because you reach the spring later. Also holding grab will cause you to grab the pink block so refrain from holding grab here as well.</br>
   See if skipping the pink block or not is easier for you. Should barely make a time difference.
