@@ -260,7 +260,7 @@ Also moonblocks move on a cycle so be aware of that if you set save states or us
   Hold downright past the door. </br>
   If the grab delay is awkward you can neutral demohyper. So demohyper without holding right. This loses quite a bit of time but you can hold grab with this.
   \
-  No cue for the end part, but just a tip; because of jelly throw cooldown you can release grab immediately and the end strat just works as long as the jelly is high enough up.
+  No cue for the end part, but just a tip; because of jelly throw cooldown you can release grab immediately and the end strat just works as long as the jelly was thrown high enough up initially.
  </details>
  
   <details>
@@ -614,13 +614,13 @@ Also moonblocks move on a cycle so be aware of that if you set save states or us
   
   ![gif](https://github.com/Tiyo98/farewell-cue-collection/blob/main/images/farewell/j-00b.webp)
   \
-  ![cue](https://cdn.discordapp.com/attachments/752203178715644024/1063521386762604564/image.png)
+  ![cue](https://i.imgur.com/EL6eGb4.png)
   \
   This strat is kinda weird but I personally jump and wait until I'm above the electricity before doing a downdash and then super and updemo. An updemo allows you to just hold grab without flying away when grabbing the jelly.
   \
-  ![cue](https://cdn.discordapp.com/attachments/752203178715644024/1063525802597167155/image.png)
-  ![cue](https://cdn.discordapp.com/attachments/752203178715644024/1063522958783549480/image.png) 
-  ![cue](https://cdn.discordapp.com/attachments/752203178715644024/1063526854692196363/image.png)  
+  ![cue](https://i.imgur.com/VWvRgkg.png)
+  ![cue](https://i.imgur.com/tYvqWyp.png) 
+  ![cue](https://i.imgur.com/cu72Xsz.png)  
   \
   Another thing that is hard but has 3 parts to make it more managable. First thing which I didn't screenshot is to hit the spring on the right side. Release directions and shortly after launching of the spring start holding right again. For me this is after passing the bottom part of the electricity on the left where I repress right. After Madeline's head passes the bottom of the electricity you throw the jelly and do a normal upright when in the middle of the vaporisation gate. 
  </details>
